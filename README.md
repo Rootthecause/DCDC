@@ -7,7 +7,10 @@ Dear Formula Student Teams,
 
 I've designed a High Voltage DC/DC Converter to replace our LV Battery. Feel free to use it as well!<br>
 
-Most components used are standard parts, but key components include URLs linking to Mouser or datasheets (for quick access: highlight part, press "D").<br>
+Please take a look at the [documentation (EN)](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_EN.pdf) and the [build guide (EN)](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_EN.pdf).<br>
+There are also German versions available: [documentation (GER)](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_GER.pdf) , [build guide (GER)](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_GER.pdf).<br>
+The full data sheet can be found [here (EN only)](https://github.com/Rootthecause/DCDC/blob/main/documentation/Datasheet_DCDCv9-3.pdf).<br>
+For Scrutineering, see the [Scrutineering Support Presentation](https://github.com/Rootthecause/DCDC/blob/main/documentation/scrutineering_support_files/DCDCv9-3_Scrutineering_Support_Presentation.pptx).<br>
 
 This design is published as open-source hardware under the CERN-OHL-W license and can be found on GitHub: https://github.com/Rootthecause/DCDC<br>
 If you have early access to this GitHub page or received any files from me directly, please do not share or publish them, as I don't want others to share files which may be incomplete or contain errors.<br>

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DC-DC Footprint Lib")(type "KiCad")(uri "${KIPRJMOD}/DC-DC Footprint Lib.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/DCDC-Footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "DCDC-Footprints")(type "KiCad")(uri "${KIPRJMOD}/DCDC-Footprints.pretty")(options "")(descr ""))
+)

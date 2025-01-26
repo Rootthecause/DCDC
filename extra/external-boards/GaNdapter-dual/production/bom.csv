@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_3, _2, ",,3,,
+"D1, D2",SBR10U200P513,2,SBR10U200P5-13,
+"Q3, Q4",GAN3R2100CBEAZ,2,GAN3R2-100CBEAZ,
+"TP1, TP11",GanDapter Long pad,2,TestPoint,
+"TP12, TP13, TP14, TP3",GanDapter single pad,4,TestPoint,
+"TP2, TP5",GanDapter short pad,2,TestPoint,

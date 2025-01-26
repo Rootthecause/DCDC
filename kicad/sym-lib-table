@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DC-DC Symbol Lib")(type "KiCad")(uri "${KIPRJMOD}/DC-DC Symbol Lib.kicad_sym")(options "")(descr ""))
+)

@@ -6,7 +6,7 @@ If you want to build it properly, plan 1-2 days for building it, and 1-2 Weeks f
 
 Q: &ensp; Can I buy a whole converter from you?<br>
 A: &ensp; Currently no. Assembling and testing it in a proper way would be so much work that (depending on demand) I couldn't do anything else. The cost of the effort would be many times higher than the material value of the converter, and the DIY idea is somewhat lost. The legal responsibility in the event of problems or errors is also difficult. All tests of a converter up to completion are carried out to the best of my knowledge, but are not recognised or certified. However, it might be possible to obtain partially assembled boards and UL94 V-0 coil formers for further assembly from me.<br>
-_Are you interested in a larger production of the converter? Feel free to contact me via Reddit!_<br>
+_Are you interested in making a larger production of the converter? Feel free to contact me via Reddit!_<br>
 
 Q:	&ensp;HELP! QUICK!!!!1! DCDC broke!<br>
 A:	&ensp;Well, that's you turn to learn ;)<br>
@@ -42,7 +42,7 @@ Typical tests are:
 - full load test for the intended voltage range (check temperatures with themal imaging)
 - efficiency test for the intended voltage and load range
 - mad scruti test: Try destroying the converter by playing around with the DC/DC enable switch (precharge and turn on/off sequence should be always in safe state)
-- hot box test: put the converter inside a small enclosure (2-5l volume) for ≥ 1h and record the temperatures inside. A restart should be possible after 1h and ≥ 60°C air temperature
+- hot box test: put the converter inside a small enclosure (2-5l volume) for ≥ 30 mins and record the temperatures inside. A restart should be possible after 30 mins and ≥ 60°C air temperature
 - turn-on tests: Monitor switching frequency, inrush currents and voltages (Input/Output/C_r) to confirm that no component limits are exceeded
 - Control loop stability test: Apply load jumps and short circuits (!) to the output and observe whether the control loop overshoots and reacts quickly enough
 - Miscellaneous: Start capacitor max. start time and long-term storage test (leakage current), Internal power supplies (voltages/currents), Synchronous rectification Waveforms 
@@ -60,7 +60,7 @@ A: &ensp;They do exist! But most of them are hidden below the components. Having
 For manual assembly, I use the HTML BOM to look up the positions anyway, so I don't really need the designators. At best, I use them for a second look.<br>
 
 Q: 	&ensp;Some 3D models on the PCB are missing.<br>
-A:	&ensp;They are not included due to licence terms. However, you can download them from https://www.samacsys.com/ using the Mouser link provided in the properties of the KiCAD components.<br> 
+A:	&ensp;They are not included due to licence terms. However, you can download them from https://www.samacsys.com/ using the Mouser link provided in the properties of the KiCAD components. For quick access: highlight part, press "D".<br>
 
 Q: &ensp;Can a Würth LLC transformer be used instead of a self-wound transformer?<br>
 A: &ensp;Physically the footprint does not fit with the current design, but as of v9-3 there would be enough space. Technically you could use them, but their max. power is 200 W and the frequency range is quite different. If one really wants to utilize them, it would be doable. But for now, their limited power is the main reason not to use them.<br>
@@ -83,7 +83,7 @@ state changes and use the same license if used for non private projects.
 Learn more about this here: https://choosealicense.com/licenses/cern-ohl-w-2.0/<br>
 
 Q:	&ensp;I've got a question not listed here, can I contact you?<br>
-A:	&ensp;Please use the [issues form](https://github.com/Rootthecause/HVI/issues/new) on GitHub for techical related questions.<br> 
+A:	&ensp;Please use the [Discussions](https://github.com/Rootthecause/DCDC/discussions) on GitHub for techical related questions.<br> 
 
 Q:	&ensp;Is there a way to support your projects?<br>
 A:	&ensp;Yes, there are two ways: Sharing your findings and results of your own DCDC build as well was financial support for development of this and future projects: https://ko-fi.com/rootthecause<br>

@@ -30078,7 +30078,7 @@
 			(roundrect_rratio 0.1785707143)
 			(net 71 "+HV")
 			(pintype "passive")
-			(clearance 0.8)
+			(clearance 1.2)
 			(uuid "6dfbd2d6-586f-4854-aff3-9ae906fc9555")
 		)
 		(pad "2" smd roundrect

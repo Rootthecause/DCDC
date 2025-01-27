@@ -43,7 +43,8 @@ The DCDCv9-3 is a galvanically isolated DC/DC converter, designed to convert vol
 	- Continous:&ensp;&ensp;&ensp;&ensp;500 W
 	- 180 Seconds:&ensp; 600 W
 	- 60 Seconds:&ensp;&ensp;&ensp;750 W
-- max. continous Output Power at 200V: 240 W
+- max. continous Output Power at 200V: 300 W
+- max. continous Output Power at 300V: 500 W
 - Efficiency up to 96.9 % at 500 W load / 500 V input
 - Size: 85.6 x 54 mm x 45 mm
 - Weight: 167 grams
@@ -53,13 +54,13 @@ Features
 - active rectification (NCP4305DMTTWG)
 - Galvanically isolated enable pins with self recharging start-up capacitor
 - undervoltage, overvoltage and overcurrent protection 
-- low no-load power dissipation (2W-5W) 
+- low no-load power dissipation (7W-9W) 
 - cost efficient UCC25600 LLC controller
 - reliable 4 A/6 A UCC21520 Gate Driver
 - onboard HV- and LV fuses
 - minimum isolation distance 4.5 mm (According to rule EV 4.3.6, Table 5, Conformal Coating: 600V DC -> min. 4 mm spacing required)
 - optional back side connectors for on-PCB mount 
-- FSG-Rules 2024 conform
+- FSG-Rules 2024 conform (and afaik 2025 too)
 </strong>
 <br>
 <br>

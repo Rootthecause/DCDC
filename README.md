@@ -139,7 +139,7 @@ v9-3		DOES NOT USE the updated gate driver (UCC21550), which (unfortunately) run
 		smaller and have much lower losses than those previously used (this has yet to be proven by tests). If everything goes according to plan,
 		the peak power could be increased beyond the currently approved 600 W.
 
-v9-3	This is the release version for the public open source release. Small improvements have been made with buffer capacitors in the LV power supply 
+v9-3		This is the release version for the public open source release. Small improvements have been made with buffer capacitors in the LV power supply 
 		to increase performance when using larger fans. When measuring the ripple voltage at the output, 1.5 Vpp voltage peaks were measured, which were 
 		associated with the step-down. Nevertheless, the exact cause is still unclear. The problem could be mitigated almost down to the measurement 
 		noise by using 1 nF capacitors and snubbers over certain components. The footprint for the 9 V LDO has been adjusted as the originally intended 

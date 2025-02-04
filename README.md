@@ -25,7 +25,7 @@ Best regards,
 Rootthecause
 
 # Note for PCB-Orders
-**Always check the latest release! If the last commit is newer than the last release, use the last commit / latest repro instead.**
+**Always check the latest release before ordering!**
 
 # Who should build this?
 This project is for anyone who is keen to build a DC/DC converter for powering low voltage devices from high voltages or for research.

@@ -161,9 +161,9 @@ conversion could be possible given the right IC. With the current development an
 a converter with PCB transformer in the MHz range might also be possible.
 
 
-# Does and dont's 
+# Do's and dont's 
 ## General
-- Not as much as Possible, but as much as needed (words from a friend).
+- Not as much as possible, but as much as needed (words from a friend).
 - If you don't test to the limits, you don't know where they are.
 - Always start with low Voltage/Power and slowly increase it.
 - Figure out what measurements and values (step size) are important.

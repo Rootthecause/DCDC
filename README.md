@@ -24,6 +24,9 @@ Have fun! Do not lick things with spark symbols on :)
 Best regards,
 Rootthecause
 
+# Note for PCB-Orders
+**Always check the latest release! If the last commit is newer than the last release, use the last commit / latest repro instead.**
+
 # Who should build this?
 This project is for anyone who is keen to build a DC/DC converter for powering low voltage devices from high voltages or for research.
 Unfortunately, it's currently not a simple one-day-build (maybe 1-2 days for building and 1-2 Weeks for testing), but I'm working on it, making it as accessible as possible.

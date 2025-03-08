@@ -19491,7 +19491,7 @@
 				(hide yes)
 			)
 		)
-		(property "comment" ""
+		(property "comment" "If not available, use PD01S1212A https://www.mouser.de/ProductDetail/Delta-Electronics/PD01S1212A?qs=%2FW4LtXOBxKsNNDIpmtt%2FbQ%3D%3D "
 			(at 50.8 53.34 0)
 			(effects
 				(font

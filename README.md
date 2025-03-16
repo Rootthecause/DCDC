@@ -23,10 +23,12 @@ Rootthecause
 | Documentation [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_GER.pdf)|
 | Build Guide [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_GER.pdf)|
 | Data sheet [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Datasheet_DCDCv9-3.pdf)|-|
+| KiCAD Files| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/kicad)|-|
 | Schematic [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/kicad/DCDCv9-3.pdf) |-|
+| LTspice Simulation| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/ltspice)|-|
 | Mesurements Table [xlsx] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/DCDCv9-3_Table.xlsx) |-|
 | Scrutineering Support Presentation [PPTX] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/scrutineering_support_files/DCDCv9-3_Scrutineering_Support_Presentation.pptx)|-|
-| LTspice Simulation| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/ltspice)|-|
+
 
 <br>
 

@@ -17955,7 +17955,7 @@
 		)
 		(uuid "1255f1a6-3d15-4931-9c3c-50856bc5ced8")
 	)
-	(text "R54 = 470k\nU_on = 6.0533 V = 4617.2 Ω = 1.1839 = 68 °C\nU_off = 5.9466 V = 4784.4 Ω = 1.2267 = 77 °C\n106.7 mV hysteresis"
+	(text "R54 = 470k\nU_on = 5.9466 V = 4784.4 Ω = 1.2267 = 77 °C\nU_off = 6.0533 V = 4617.2 Ω = 1.1839 = 68 °C\n106.7 mV hysteresis"
 		(exclude_from_sim no)
 		(at 112.395 271.78 0)
 		(effects

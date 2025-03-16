@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "DC/DC v9-3r1")
-		(date "2025-02-04")
+		(date "2025-03-16")
 		(company "Author: Rootthecause")
 	)
 	(lib_symbols

@@ -18,7 +18,7 @@ Best regards,
 Rootthecause
 
 # Important documents
-||||
+|File | | |
 |:---------------------:|:--------------:|:------:|
 | Documentation [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_GER.pdf)|
 | Build Guide [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_GER.pdf)|

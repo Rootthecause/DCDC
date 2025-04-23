@@ -6594,7 +6594,6 @@
 	(hierarchical_label "3"
 		(shape input)
 		(at 31.115 85.725 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6606,7 +6605,6 @@
 	(hierarchical_label "Rect_GND"
 		(shape output)
 		(at 147.955 85.725 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6618,7 +6616,6 @@
 	(hierarchical_label "5"
 		(shape input)
 		(at 31.115 95.885 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

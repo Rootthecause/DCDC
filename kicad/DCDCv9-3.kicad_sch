@@ -18920,7 +18920,6 @@
 	)
 	(label "OTP_FAN"
 		(at 135.89 262.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18931,7 +18930,6 @@
 	)
 	(label "OVP"
 		(at 285.75 89.535 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18942,7 +18940,6 @@
 	)
 	(label "OC"
 		(at 254 53.975 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18953,7 +18950,6 @@
 	)
 	(label "HS"
 		(at 275.59 53.975 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18964,7 +18960,6 @@
 	)
 	(label "OC"
 		(at 144.78 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18975,7 +18970,6 @@
 	)
 	(label "Opc+"
 		(at 343.535 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18986,7 +18980,6 @@
 	)
 	(label "UVP"
 		(at 267.97 89.535 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18997,7 +18990,6 @@
 	)
 	(label "OTP_OFF"
 		(at 78.74 262.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19008,7 +19000,6 @@
 	)
 	(label "OVP"
 		(at 386.08 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19019,7 +19010,6 @@
 	)
 	(label "LS"
 		(at 57.15 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -19030,7 +19020,6 @@
 	)
 	(label "OTP_OFF"
 		(at 226.06 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -19041,7 +19030,6 @@
 	)
 	(label "Opc+"
 		(at 239.395 35.56 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19052,7 +19040,6 @@
 	)
 	(label "LS"
 		(at 275.59 64.135 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19063,7 +19050,6 @@
 	)
 	(label "HB_out"
 		(at 137.16 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -19074,7 +19060,6 @@
 	)
 	(label "OTP_FAN"
 		(at 243.84 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -19085,7 +19070,6 @@
 	)
 	(label "UVP"
 		(at 353.06 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19096,7 +19080,6 @@
 	)
 	(label "HS"
 		(at 57.15 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -20366,7 +20349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 186.69 214.63 0)
 			(effects
 				(font
@@ -20384,7 +20367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 186.69 214.63 0)
 			(effects
 				(font
@@ -26403,7 +26386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 92.71 220.345 0)
 			(effects
 				(font
@@ -26421,7 +26404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 92.71 220.345 0)
 			(effects
 				(font
@@ -27395,7 +27378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 229.235 73.025 0)
 			(effects
 				(font
@@ -27413,7 +27396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 229.235 73.025 0)
 			(effects
 				(font
@@ -31236,7 +31219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 193.04 214.63 0)
 			(effects
 				(font
@@ -31254,7 +31237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 193.04 214.63 0)
 			(effects
 				(font
@@ -34368,7 +34351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 129.54 220.345 0)
 			(effects
 				(font
@@ -34386,7 +34369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 129.54 220.345 0)
 			(effects
 				(font
@@ -37651,7 +37634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 133.35 220.345 0)
 			(effects
 				(font
@@ -37669,7 +37652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 133.35 220.345 0)
 			(effects
 				(font

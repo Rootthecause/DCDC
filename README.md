@@ -34,6 +34,8 @@ Rootthecause
 
 # Note for PCB-Orders
 **Always check the latest release before ordering!**
+There are new releases for every significant hardware change.
+I do not recommend ordering from the latest repro clone, as it might contain unfinished hardware changes. However, simulation files or documents might be more recent.
 <br>
 <br>
 # Who should build this?
@@ -123,3 +125,17 @@ a converter with PCB transformer in the MHz range might also be possible.
 - Use your ears and nose in a quite environment while testing. Many issues can be heard (humming, cracking sounds), and some smelled (too hot component).
 - Be sure to add test points to your PCB while developing, which can be acessed via jumper wires or simliar. Do not attempt to measure anything directly with a probe while the converter is running, since a small slip can be enough to ruin the whole converter and maybe even do harm to yourself. 
 - use an Oscilloscope with Isolated inputs (alternative use differential probes or an battery powered Oscilloscope) to check signals. 
+
+
+## Replicas
+*Last updated: May 9, 2025*
+
+- At least 4 Formula Student teams are replicating the DCDCv9-3r in 2025  
+- At least 1 team has successfully built and tested the DCDCv9-3r:  
+  - Anonymous Team
+
+<br>
+
+**Want to add your team to this list (publicly or anonymously)?**  
+Send me a DM on [Reddit](https://www.reddit.com/user/Rootthecause/) with a photo of your replica.  
+Thanks!

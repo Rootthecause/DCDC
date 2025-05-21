@@ -604,7 +604,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -632,6 +632,12 @@
         },
         {
           "group_by": false,
+          "label": "ignore for PCBA",
+          "name": "ignore for PCBA",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Effective Capactitance",
           "name": "Effective Capactitance",
           "show": false
@@ -641,12 +647,6 @@
           "label": "Height",
           "name": "Height",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "ignore for PCBA",
-          "name": "ignore for PCBA",
-          "show": true
         },
         {
           "group_by": false,
@@ -712,7 +712,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -730,8 +730,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "${DNP}"
     },
     "connection_grid_size": 50.0,
     "drawing": {

@@ -22608,6 +22608,29 @@
 				(xyz 0 0 180)
 			)
 		)
+		(model "/Users/l/Downloads/691416600002 (rev1).stp"
+			(hide yes)
+			(offset
+				(xyz -0.1 5.75 12.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 0)
+			)
+		)
+		(model "/Users/l/Downloads/691416600002 (rev1).stp"
+			(offset
+				(xyz 10.125 -5.75 12.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 -180)
+			)
+		)
 	)
 	(footprint "DCDC-Footprints:HV_Logo_small"
 		(layer "F.Cu")

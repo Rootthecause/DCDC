@@ -6,7 +6,7 @@
 Dear Formula Student Teams,
 
 I've designed a High Voltage DC/DC Converter to replace our LV Battery. Feel free to use it as well!<br>
-Although this design (and previous versions) have passed two times FSG scrutineering and have been operating without any issues for over 6 months, <strong>always manufacture at your own risk!</strong><br>
+Although this design (and previous versions) have passed two times FSG scrutineering and have been operating without any issues for over 6 months*, <strong>always manufacture at your own risk!</strong><br>
 If you encountered any bugs or have suggestions for improvement, please use the GitHub [issues form](https://github.com/Rootthecause/DCDC/issues/new). For discussions and technical questions, kindly use the [discussion bord](https://github.com/Rootthecause/DCDC/discussions).<br>
 
 This design is published as open-source hardware under the CERN-OHL-W license and can be found on GitHub: https://github.com/Rootthecause/DCDC<br>
@@ -16,6 +16,16 @@ Have fun! Do not lick things with spark symbols on :)
 
 Best regards,
 Rootthecause
+
+<br>
+*Update June 24, 2025 <br>
+8 months after building the v9-3 the very first failure occured after a load was applied during normal operation.
+Q11 (highside FET) had a permanent short, tripping F1 and damaging Q3. Normal operation was restored by replacing these components.
+It is unclear, whether this failure was a random one-off or something caused by a design flaw, leading to gradual destruction.
+It is recommended to have these components at stock. So far no other failures have been reported.
+There might be an issue with the gate resistors (R56/R58) currently at 4.7 Ω being too low. An older design which still operates uses 10 Ω. Using a higher value might lead to higher (but still acceptable) switching losses. I can't fully verify these losses at the moment due to time constraints - DM me on Reddit if you've tested it and are willing to share your efficiency results. Thanks!
+<br>
+<br>
 
 # Important documents
 |File | | |

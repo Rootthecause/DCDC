@@ -6204,7 +6204,7 @@
 				)
 			)
 		)
-		(property "comment" ""
+		(property "comment" "If not available, use PD01S1212A https://www.mouser.de/ProductDetail/Delta-Electronics/PD01S1212A?qs=%2FW4LtXOBxKsNNDIpmtt%2FbQ%3D%3D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8914,7 +8914,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8940,7 +8940,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24510,7 +24510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24536,7 +24536,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32465,7 +32465,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32493,7 +32493,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40234,7 +40234,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40262,7 +40262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41093,7 +41093,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "10"
 			(at 0 -1.82 0)
 			(layer "B.Fab")
 			(uuid "104a04d0-953a-4b53-bb66-d82acaabc600")
@@ -41119,7 +41119,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41147,7 +41147,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-P08J4R7V"
+		(property "Manufacturer_Part_Number" "RC1206FR-7W10RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48022,7 +48022,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48050,7 +48050,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -50430,7 +50430,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Murata-Electronics/GRM188C61E226ME01J?qs=Z%252BL2brAPG1Ka41zYia00qA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Samsung-Electro-Mechanics/CL21A226MAYNNNE?qs=xZ%2FP%252Ba9zWqY%2FVvCfXjMhqg%3D%3D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -50458,7 +50458,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "GRM188C61E226ME01J"
+		(property "Manufacturer_Part_Number" "CL21A226MAYNNNE"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -51539,7 +51539,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "10"
 			(at 0 -1.82 0)
 			(layer "B.Fab")
 			(uuid "b345f4c8-395e-4e22-b88d-6c5b078fbd20")
@@ -51565,7 +51565,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -51593,7 +51593,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-P08J4R7V"
+		(property "Manufacturer_Part_Number" "RC1206FR-7W10RL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69406,7 +69406,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/2282fe08-0f1e-410a-b338-afff49029dbb")
+		(path "/17ca130b-6af7-4705-b48f-f3eb49292850")
 		(sheetname "Root")
 		(sheetfile "DCDCv9-3.kicad_sch")
 		(attr smd)

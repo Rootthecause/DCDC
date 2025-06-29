@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "DC/DC v9-3r1")
-		(date "2025-03-16")
+		(date "2025-06-29")
 		(company "Author: Rootthecause")
 	)
 	(lib_symbols
@@ -18655,6 +18655,16 @@
 		)
 		(uuid "b1de4cd1-bb61-4701-8b12-12ef23731578")
 	)
+	(text "Note: R75 is currently not on the PCB \nand must be soldered on top of R31. "
+		(exclude_from_sim no)
+		(at 92.075 278.13 0)
+		(effects
+			(font
+				(size 0.6 0.6)
+			)
+		)
+		(uuid "b672708f-3a2d-4f27-a959-3abaea4a3300")
+	)
 	(text "Test points LV"
 		(exclude_from_sim no)
 		(at 300.482 182.499 0)
@@ -20468,6 +20478,121 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 89.535 271.145 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1665fa47-de68-4bca-bec4-9313f520c2b4")
+		(property "Reference" "R75"
+			(at 87.376 269.9766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 88.392 272.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/ROHM-Semiconductor/ESR03EZPJ104?qs=493kPxzlxfLd9svH5sC01g%3D%3D"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESR03EZPJ104"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Qty Order" "5"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBom" ""
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "comment" "Note: R75 is currently not on the PCB  and must be soldered on top of R31. "
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source" "Mouser"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ddcee48-c3a8-4d47-b98a-cca601f39bcb")
+		)
+		(pin "2"
+			(uuid "9004978f-3881-46f3-89a0-09f1fe87acb5")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R75")
 					(unit 1)
 				)
 			)
@@ -29231,7 +29356,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "10"
 			(at 103.632 152.273 90)
 			(effects
 				(font
@@ -29249,7 +29374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 105.41 149.86 0)
 			(effects
 				(font
@@ -29267,7 +29392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-P08J4R7V"
+		(property "Manufacturer_Part_Number" "RC1206FR-7W10RL"
 			(at 105.41 149.86 0)
 			(effects
 				(font
@@ -29756,7 +29881,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "10"
 			(at 103.632 126.873 90)
 			(effects
 				(font
@@ -29774,7 +29899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -29792,7 +29917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-P08J4R7V"
+		(property "Manufacturer_Part_Number" "RC1206FR-7W10RL"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -42761,120 +42886,6 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 89.535 271.145 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f6c01673-63e3-4c86-83c2-50c2bf859bd9")
-		(property "Reference" "R75"
-			(at 83.693 270.2365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 83.693 272.3766 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:R_0603_1608Metric"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/ROHM-Semiconductor/ESR03EZPJ104?qs=493kPxzlxfLd9svH5sC01g%3D%3D"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ESR03EZPJ104"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "5"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" "Voltage divider with R52, but also pull-up when Precharge is not done"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d0fda5d0-c333-4b9b-95ff-734368afafa3")
-		)
-		(pin "2"
-			(uuid "60464a50-1c1a-4743-93f8-729f98f0a7cb")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R75")
 					(unit 1)
 				)
 			)

@@ -1,3 +1,6 @@
+<font color="red">**WARNING: Currently I do not recommend using this DCDC on FS events unless this issue is solved! Please have a backup solution at hand! Just because your replica has been working for the last few weeks does not mean it can't fail at any time.**</font> <br>
+Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8)
+
 [![kicad](https://img.shields.io/badge/KiCad-8.0.5-1F4FFF)](https://www.kicad.org/)
 [![LTspice](https://img.shields.io/badge/LTspice-17.0-910029)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
 
@@ -19,11 +22,12 @@ Rootthecause
 
 <br>
 *Update June 24, 2025 <br>
-8 months after building the v9-3 the very first failure occured after a load was applied during normal operation.
-Q11 (highside FET) had a permanent short, tripping F1 and damaging Q3. Normal operation was restored by replacing these components.
-It is unclear, whether this failure was a random one-off or something caused by a design flaw, leading to gradual destruction.
-It is recommended to have these components at stock. So far no other failures have been reported.
-There might be an issue with the gate resistors (R56/R58) currently at 4.7 Ω being too low. An older design which still operates uses 10 Ω. Using a higher value might lead to higher (but still acceptable) switching losses. I can't fully verify these losses at the moment due to time constraints - DM me on Reddit if you've tested it and are willing to share your efficiency results. Thanks!
+8 months after building the v9-3 the very first failure occured on my converter after a load was applied during normal operation above 575V input voltage.
+However, this issue did not occur to another teams's v9-3 replica so far (even running at 600V), despite being a repeatable issue on my own converter. 
+On my converter the following happens: If the input voltage is above 575V the chance increases that Q11 (highside FET) or Q10 (lowside) are having a permanent short, tripping F1 and damaging Q3.
+Normal operation can be restored by replacing these components until the input voltage was too high again. It especially happens during turn-on or applying loads.
+There are hints of increased rise/fall times during higher switching frequencies, which currently cannot be really explained.
+Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8) 
 <br>
 <br>
 

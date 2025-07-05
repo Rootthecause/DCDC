@@ -33,3 +33,4 @@ fp-info-cache
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+ltspice/DCDCv9-3r_infineon_model.asc

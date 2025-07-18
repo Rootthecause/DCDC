@@ -1,6 +1,3 @@
-<font color="red">**WARNING: Currently I do not recommend using this DCDC on FS events unless this issue is solved! Please have a backup solution at hand! Just because your replica has been working for the last few weeks does not mean it can't fail at any time.**</font> <br>
-Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8)
-
 [![kicad](https://img.shields.io/badge/KiCad-8.0.5-1F4FFF)](https://www.kicad.org/)
 [![LTspice](https://img.shields.io/badge/LTspice-17.0-910029)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
 
@@ -21,13 +18,15 @@ Best regards,
 Rootthecause
 
 <br>
-*Update June 24, 2025 <br>
-8 months after building the v9-3 the very first failure occured on my converter after a load was applied during normal operation above 575V input voltage.
-However, this issue did not occur to another teams's v9-3 replica so far (even running at 600V), despite being a repeatable issue on my own converter. 
-On my converter the following happens: If the input voltage is above 575V the chance increases that Q11 (highside FET) or Q10 (lowside) are having a permanent short, tripping F1 and damaging Q3.
-Normal operation can be restored by replacing these components until the input voltage was too high again. It especially happens during turn-on or applying loads.
-There are hints of increased rise/fall times during higher switching frequencies, which currently cannot be really explained.
-Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8) 
+*Update July 18, 2025 <br>
+A failure on my own converter was occuring when a capacitive load above 575 V input voltage was applied. 
+This issue did not occur in lab tests, as the load profile was different from the LV System of our FS Racecar. 
+It was resolved by increasing the minimum switching frequency. The process for setting f_min has been adjusted in the July 18 release of the Build Guide.
+Please re-read the Build Guide Pages 35/36 if you've set up your replica before this change.   
+Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8)<br>
+<br>
+Good luck everyone for this year's FS season!
+See you at FSA ;)
 <br>
 <br>
 

@@ -34,3 +34,11 @@ fp-info-cache
 *.dsn
 *.ses
 ltspice/DCDCv9-3r_infineon_model.asc
+ltspice/DCDCv9-3r_Above575V_debug.asc
+ltspice/DCDCv9-3r_Above575V_debug.plt
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug.asc
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug.plt
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug_Level1_modell.asc
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug_Level1_modell.log
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug_Level1_modell.op.raw
+ltspice/DCDCv9-3r_infineon_model_breakdown_debug_Level1_modell.raw

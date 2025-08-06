@@ -22,7 +22,7 @@ Rootthecause / Liv
 # Updates
 |Date | Description |
 |:---------------------:|:------|
-| August 6, 2025 | Announcing the v10 development - ideas welcome! Read more [here](https://github.com/Rootthecause/DCDC/discussions/9).|
+| August 6, 2025 | Announcing the v10 development - ideas welcome! Read more [here](https://github.com/Rootthecause/DCDC/discussions/9). DCDCv10 [survey](https://forms.gle/ou8AZbYJj4cU9K3A8).|
 | July 18, 2025 | bad F_min setting lead to repeatable FET destruction, please re-read the Build Guide Pages 35/36 if you've set up your replica before this change. See [issue#8](https://github.com/Rootthecause/DCDC/issues/8) |
 <br>
 

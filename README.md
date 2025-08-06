@@ -15,19 +15,15 @@ If you had early access to this GitHub page or received any files from me direct
 Have fun! Do not lick things with spark symbols on :) 
 
 Best regards,
-Rootthecause
+Rootthecause / Liv 
 
 <br>
-*Update July 18, 2025 <br>
-A failure on my own converter was occuring when a capacitive load above 575 V input voltage was applied. 
-This issue did not occur in lab tests, as the load profile was different from the LV System of our FS Racecar. 
-It was resolved by increasing the minimum switching frequency. The process for setting f_min has been adjusted in the July 18 release of the Build Guide.
-Please re-read the Build Guide Pages 35/36 if you've set up your replica before this change.   
-Read more about this issue [here](https://github.com/Rootthecause/DCDC/issues/8)<br>
-<br>
-Good luck everyone for this year's FS season!
-See you at FSA ;)
-<br>
+
+# Updates
+|Date | Description |
+|:---------------------:|:------|
+| August 6, 2025 | Announcing the v10 development - ideas welcome! Read more [here](https://github.com/Rootthecause/DCDC/discussions/9).|
+| July 18, 2025 | bad F_min setting lead to repeatable FET destruction, please re-read the Build Guide Pages 35/36 if you've set up your replica before this change. See [issue#8](https://github.com/Rootthecause/DCDC/issues/8) |
 <br>
 
 # Important documents

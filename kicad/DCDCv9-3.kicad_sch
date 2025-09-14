@@ -19390,15 +19390,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 96.52 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 96.52 57.785 0)
 			(effects
@@ -19409,6 +19400,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 96.52 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 96.52 57.785 0)
 			(effects
 				(font
@@ -19521,15 +19521,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 50.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "If not available, use PD01S1212A https://www.mouser.de/ProductDetail/Delta-Electronics/PD01S1212A?qs=%2FW4LtXOBxKsNNDIpmtt%2FbQ%3D%3D "
 			(at 50.8 53.34 0)
 			(effects
@@ -19540,6 +19531,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 50.8 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -19639,15 +19639,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 217.17 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 217.17 163.83 0)
 			(effects
@@ -19658,6 +19649,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 217.17 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 217.17 163.83 0)
 			(effects
 				(font
@@ -19751,15 +19751,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 91.44 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 91.44 157.48 0)
 			(effects
@@ -19770,6 +19761,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 91.44 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 91.44 157.48 0)
 			(effects
 				(font
@@ -19863,15 +19863,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 18.415 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 18.415 209.55 0)
 			(effects
@@ -19882,6 +19873,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 18.415 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 18.415 209.55 0)
 			(effects
 				(font
@@ -19978,15 +19978,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 347.345 23.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 347.345 23.495 0)
 			(effects
@@ -19997,6 +19988,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 347.345 23.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 347.345 23.495 0)
 			(effects
 				(font
@@ -20092,15 +20092,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 118.745 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 118.745 252.73 0)
 			(effects
@@ -20111,6 +20102,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 118.745 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 118.745 252.73 0)
 			(effects
 				(font
@@ -20214,15 +20214,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 172.72 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 172.72 147.32 0)
 			(effects
@@ -20233,6 +20224,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 172.72 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 172.72 147.32 0)
 			(effects
 				(font
@@ -20326,15 +20326,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 327.025 142.875 0)
 			(effects
@@ -20345,6 +20336,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 327.025 142.875 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 327.025 142.875 0)
 			(effects
 				(font
@@ -20441,15 +20441,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 186.69 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 186.69 214.63 0)
 			(effects
@@ -20460,6 +20451,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 186.69 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 186.69 214.63 0)
 			(effects
 				(font
@@ -20548,15 +20548,6 @@
 			)
 		)
 		(property "Qty Order" "5"
-			(at 89.535 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" ""
 			(at 89.535 271.145 0)
 			(effects
 				(font
@@ -20668,15 +20659,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 320.04 142.875 0)
 			(effects
@@ -20687,6 +20669,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 320.04 142.875 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 320.04 142.875 0)
 			(effects
 				(font
@@ -20783,15 +20774,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 280.035 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 280.035 32.385 0)
 			(effects
@@ -20802,6 +20784,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 280.035 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 280.035 32.385 0)
 			(effects
 				(font
@@ -20899,15 +20890,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 96.52 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 96.52 57.785 0)
 			(effects
@@ -20918,6 +20900,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 96.52 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 96.52 57.785 0)
 			(effects
 				(font
@@ -21181,15 +21172,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 50.8 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 50.8 262.89 0)
 			(effects
@@ -21200,6 +21182,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 50.8 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 50.8 262.89 0)
 			(effects
 				(font
@@ -21313,15 +21304,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 225.425 38.735 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 225.425 38.735 0)
 			(effects
@@ -21332,6 +21314,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 225.425 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 225.425 38.735 0)
 			(effects
 				(font
@@ -21493,15 +21484,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 170.18 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 170.18 57.785 0)
 			(effects
@@ -21512,6 +21494,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 170.18 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 170.18 57.785 0)
 			(effects
 				(font
@@ -21607,15 +21598,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 152.4 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "OC discharge, lower resistance will allow for higher Cr Voltage"
 			(at 152.4 157.48 0)
 			(effects
@@ -21626,6 +21608,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 152.4 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 152.4 157.48 0)
 			(effects
 				(font
@@ -21719,15 +21710,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 154.94 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 154.94 57.785 0)
 			(effects
@@ -21738,6 +21720,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 154.94 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 154.94 57.785 0)
 			(effects
 				(font
@@ -21914,15 +21905,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 372.745 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 372.745 46.99 0)
 			(effects
@@ -21933,6 +21915,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 372.745 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 372.745 46.99 0)
 			(effects
 				(font
@@ -22046,15 +22037,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 357.378 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Receptacle Housing"
 			(at 357.378 248.92 0)
 			(effects
@@ -22065,6 +22047,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 357.378 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 357.378 248.92 0)
 			(effects
 				(font
@@ -22158,15 +22149,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 121.92 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 121.92 82.55 0)
 			(effects
@@ -22177,6 +22159,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 121.92 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 121.92 82.55 0)
 			(effects
 				(font
@@ -22273,15 +22264,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 109.855 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 109.855 201.93 0)
 			(effects
@@ -22292,6 +22274,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 109.855 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 109.855 201.93 0)
 			(effects
 				(font
@@ -22391,15 +22382,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 294.64 89.535 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 294.64 89.535 0)
 			(effects
@@ -22410,6 +22392,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 294.64 89.535 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 294.64 89.535 0)
 			(effects
 				(font
@@ -22511,15 +22502,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 334.645 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 334.645 46.99 0)
 			(effects
@@ -22530,6 +22512,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 334.645 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 334.645 46.99 0)
 			(effects
 				(font
@@ -22641,15 +22632,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 54.61 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 54.61 252.73 0)
 			(effects
@@ -22660,6 +22642,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 54.61 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 54.61 252.73 0)
 			(effects
 				(font
@@ -22755,15 +22746,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 140.97 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Voltage divider with R52, but also pull-up when Precharge is not done"
 			(at 140.97 44.45 0)
 			(effects
@@ -22774,6 +22756,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 140.97 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 140.97 44.45 0)
 			(effects
 				(font
@@ -22933,15 +22924,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 289.56 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 289.56 116.84 0)
 			(effects
@@ -22952,6 +22934,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 289.56 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 289.56 116.84 0)
 			(effects
 				(font
@@ -23047,15 +23038,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 320.04 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 320.04 78.105 0)
 			(effects
@@ -23066,6 +23048,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 320.04 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 320.04 78.105 0)
 			(effects
 				(font
@@ -23162,15 +23153,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 78.74 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 78.74 209.55 0)
 			(effects
@@ -23181,6 +23163,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 78.74 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 78.74 209.55 0)
 			(effects
 				(font
@@ -23343,15 +23334,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 98.425 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 98.425 212.09 0)
 			(effects
@@ -23362,6 +23344,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 98.425 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 98.425 212.09 0)
 			(effects
 				(font
@@ -23457,15 +23448,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 113.03 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 113.03 157.48 0)
 			(effects
@@ -23476,6 +23458,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 113.03 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 113.03 157.48 0)
 			(effects
 				(font
@@ -23569,15 +23560,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 25.4 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Install F1.1 and F1.2, Fuse weight: 3.04 g"
 			(at 25.4 30.48 0)
 			(effects
@@ -23588,6 +23570,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 25.4 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 25.4 30.48 0)
 			(effects
 				(font
@@ -23681,15 +23672,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 347.98 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 347.98 125.73 0)
 			(effects
@@ -23700,6 +23682,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 347.98 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 347.98 125.73 0)
 			(effects
 				(font
@@ -23859,15 +23850,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 203.2 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 203.2 204.47 0)
 			(effects
@@ -23878,6 +23860,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 203.2 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 203.2 204.47 0)
 			(effects
 				(font
@@ -23977,15 +23968,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 32.385 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 32.385 220.345 0)
 			(effects
@@ -23996,6 +23978,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 32.385 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 32.385 220.345 0)
 			(effects
 				(font
@@ -24091,15 +24082,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 93.98 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 93.98 271.145 0)
 			(effects
@@ -24110,6 +24092,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 93.98 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 93.98 271.145 0)
 			(effects
 				(font
@@ -24238,15 +24229,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 135.255 205.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 135.255 205.105 0)
 			(effects
@@ -24257,6 +24239,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 135.255 205.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 135.255 205.105 0)
 			(effects
 				(font
@@ -24352,15 +24343,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 366.395 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 366.395 133.35 0)
 			(effects
@@ -24371,6 +24353,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 366.395 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 366.395 133.35 0)
 			(effects
 				(font
@@ -24466,15 +24457,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 165.1 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 165.1 45.72 0)
 			(effects
@@ -24485,6 +24467,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 165.1 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -24578,15 +24569,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 384.175 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 384.175 138.43 0)
 			(effects
@@ -24597,6 +24579,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 384.175 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 384.175 138.43 0)
 			(effects
 				(font
@@ -24710,15 +24701,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 285.115 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 285.115 133.35 0)
 			(effects
@@ -24729,6 +24711,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 285.115 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 285.115 133.35 0)
 			(effects
 				(font
@@ -24887,15 +24878,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 50.8 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 50.8 262.89 0)
 			(effects
@@ -24906,6 +24888,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 50.8 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 50.8 262.89 0)
 			(effects
 				(font
@@ -25037,15 +25028,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 281.305 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 281.305 133.35 0)
 			(effects
@@ -25056,6 +25038,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 281.305 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 281.305 133.35 0)
 			(effects
 				(font
@@ -25151,24 +25142,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 250.825 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 250.825 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 250.825 73.025 0)
 			(effects
@@ -25179,6 +25152,24 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 250.825 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
+			(at 250.825 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 250.825 73.025 0)
 			(effects
 				(font
@@ -25274,15 +25265,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 27.94 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 27.94 125.73 0)
 			(effects
@@ -25293,6 +25275,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 27.94 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 27.94 125.73 0)
 			(effects
 				(font
@@ -25388,15 +25379,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 144.78 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 144.78 24.13 0)
 			(effects
@@ -25407,6 +25389,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 144.78 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 144.78 24.13 0)
 			(effects
 				(font
@@ -25502,15 +25493,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 144.78 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 144.78 157.48 0)
 			(effects
@@ -25521,6 +25503,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 144.78 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 144.78 157.48 0)
 			(effects
 				(font
@@ -25813,15 +25804,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 113.03 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 113.03 132.08 0)
 			(effects
@@ -25832,6 +25814,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 113.03 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 113.03 132.08 0)
 			(effects
 				(font
@@ -25945,15 +25936,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 288.925 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 288.925 133.35 0)
 			(effects
@@ -25964,6 +25946,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 288.925 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 288.925 133.35 0)
 			(effects
 				(font
@@ -26142,15 +26133,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 191.135 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 191.135 157.48 0)
 			(effects
@@ -26161,6 +26143,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 191.135 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 191.135 157.48 0)
 			(effects
 				(font
@@ -26256,15 +26247,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 320.04 130.81 0)
 			(effects
@@ -26275,6 +26257,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 320.04 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 320.04 130.81 0)
 			(effects
 				(font
@@ -26372,15 +26363,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 364.363 195.961 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "N97 Core without air gap"
 			(at 364.363 195.961 0)
 			(effects
@@ -26391,6 +26373,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 364.363 195.961 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 364.363 195.961 0)
 			(effects
 				(font
@@ -26481,15 +26472,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 116.205 216.535 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 116.205 216.535 0)
 			(effects
@@ -26500,6 +26482,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 116.205 216.535 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 116.205 216.535 0)
 			(effects
 				(font
@@ -26593,15 +26584,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 92.71 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 92.71 220.345 0)
 			(effects
@@ -26612,6 +26594,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 92.71 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 92.71 220.345 0)
 			(effects
 				(font
@@ -26838,15 +26829,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 236.855 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 236.855 219.71 0)
 			(effects
@@ -26857,6 +26839,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 236.855 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 236.855 219.71 0)
 			(effects
 				(font
@@ -26953,15 +26944,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 22.86 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 22.86 209.55 0)
 			(effects
@@ -26972,6 +26954,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 22.86 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 22.86 209.55 0)
 			(effects
 				(font
@@ -27065,15 +27056,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 307.975 138.43 0)
 			(effects
@@ -27084,6 +27066,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 307.975 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 307.975 138.43 0)
 			(effects
 				(font
@@ -27180,15 +27171,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 177.8 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 177.8 218.44 0)
 			(effects
@@ -27199,6 +27181,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 177.8 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 177.8 218.44 0)
 			(effects
 				(font
@@ -27357,15 +27348,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 154.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 154.94 147.32 0)
 			(effects
@@ -27376,6 +27358,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 154.94 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 154.94 147.32 0)
 			(effects
 				(font
@@ -27471,15 +27462,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 116.84 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 116.84 82.55 0)
 			(effects
@@ -27490,6 +27472,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 116.84 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -27585,15 +27576,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 229.235 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 229.235 73.025 0)
 			(effects
@@ -27604,6 +27586,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 229.235 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 229.235 73.025 0)
 			(effects
 				(font
@@ -27697,15 +27688,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 88.265 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 88.265 209.55 0)
 			(effects
@@ -27716,6 +27698,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 88.265 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 88.265 209.55 0)
 			(effects
 				(font
@@ -27812,15 +27803,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 212.725 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 212.725 214.63 0)
 			(effects
@@ -27831,6 +27813,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 212.725 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 212.725 214.63 0)
 			(effects
 				(font
@@ -27924,15 +27915,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "use J1.1 or J1.2 (order both just in case)"
 			(at 357.378 238.252 0)
 			(effects
@@ -27943,6 +27925,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 357.378 238.252 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 357.378 238.252 0)
 			(effects
 				(font
@@ -28036,15 +28027,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 41.91 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 41.91 271.145 0)
 			(effects
@@ -28055,6 +28037,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 41.91 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 41.91 271.145 0)
 			(effects
 				(font
@@ -28151,15 +28142,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 280.035 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 280.035 22.86 0)
 			(effects
@@ -28170,6 +28152,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 280.035 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 280.035 22.86 0)
 			(effects
 				(font
@@ -28265,15 +28256,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 337.185 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 337.185 160.02 0)
 			(effects
@@ -28284,6 +28266,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 337.185 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 337.185 160.02 0)
 			(effects
 				(font
@@ -28444,15 +28435,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Do not install if clip-on installation is used. Use J6 and J7 instead"
 			(at 19.05 40.64 0)
 			(effects
@@ -28463,6 +28445,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 19.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 19.05 40.64 0)
 			(effects
 				(font
@@ -28559,15 +28550,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 98.425 221.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 98.425 221.615 0)
 			(effects
@@ -28578,6 +28560,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 98.425 221.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 98.425 221.615 0)
 			(effects
 				(font
@@ -28673,15 +28664,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 372.745 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 372.745 133.35 0)
 			(effects
@@ -28692,6 +28674,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 372.745 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 372.745 133.35 0)
 			(effects
 				(font
@@ -28853,15 +28844,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 103.505 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 103.505 199.39 0)
 			(effects
@@ -28872,6 +28854,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 103.505 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 103.505 199.39 0)
 			(effects
 				(font
@@ -29122,15 +29113,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 352.298 193.548 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "N97 Core without air gap"
 			(at 352.298 193.548 0)
 			(effects
@@ -29141,6 +29123,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 352.298 193.548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 352.298 193.548 0)
 			(effects
 				(font
@@ -29296,15 +29287,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 320.04 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 320.04 32.385 0)
 			(effects
@@ -29315,6 +29297,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 320.04 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 320.04 32.385 0)
 			(effects
 				(font
@@ -29410,15 +29401,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 105.41 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Gate current limiter. Smaller values will lower switching times, but might increase ringing"
 			(at 105.41 149.86 0)
 			(effects
@@ -29429,6 +29411,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 105.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 105.41 149.86 0)
 			(effects
 				(font
@@ -29542,15 +29533,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 191.135 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 191.135 122.555 0)
 			(effects
@@ -29561,6 +29543,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 191.135 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 191.135 122.555 0)
 			(effects
 				(font
@@ -29689,15 +29680,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 63.5 205.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 63.5 205.105 0)
 			(effects
@@ -29708,6 +29690,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 63.5 205.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 63.5 205.105 0)
 			(effects
 				(font
@@ -29935,15 +29926,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 105.41 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Gate current limiter. Smaller values will lower switching times, but might increase ringing"
 			(at 105.41 124.46 0)
 			(effects
@@ -29954,6 +29936,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 105.41 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -30050,15 +30041,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 168.275 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Voltage divider with R27"
 			(at 168.275 219.71 0)
 			(effects
@@ -30069,6 +30051,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 168.275 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 168.275 219.71 0)
 			(effects
 				(font
@@ -30164,15 +30155,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 144.78 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 144.78 33.02 0)
 			(effects
@@ -30183,6 +30165,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 144.78 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 144.78 33.02 0)
 			(effects
 				(font
@@ -30341,15 +30332,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 35.56 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 35.56 254.635 0)
 			(effects
@@ -30360,6 +30342,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 35.56 254.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 35.56 254.635 0)
 			(effects
 				(font
@@ -30457,15 +30448,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 359.283 211.455 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "if disconnected, fan will be on permanently (can be a desired feature), mount according to build guide"
 			(at 359.283 211.455 0)
 			(effects
@@ -30476,6 +30458,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 359.283 211.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 359.283 211.455 0)
 			(effects
 				(font
@@ -30571,15 +30562,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 327.025 130.81 0)
 			(effects
@@ -30590,6 +30572,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 327.025 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 327.025 130.81 0)
 			(effects
 				(font
@@ -30685,15 +30676,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 121.92 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 121.92 132.08 0)
 			(effects
@@ -30704,6 +30686,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 121.92 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 121.92 132.08 0)
 			(effects
 				(font
@@ -30792,15 +30783,6 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 247.015 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
 			(at 247.015 73.025 0)
 			(effects
 				(font
@@ -30952,24 +30934,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 201.295 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 201.295 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 201.295 151.13 0)
 			(effects
@@ -30980,6 +30944,24 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 201.295 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
+			(at 201.295 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 201.295 151.13 0)
 			(effects
 				(font
@@ -31076,15 +31058,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 337.185 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 337.185 133.35 0)
 			(effects
@@ -31095,6 +31068,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 337.185 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 337.185 133.35 0)
 			(effects
 				(font
@@ -31191,15 +31173,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 177.8 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 177.8 209.55 0)
 			(effects
@@ -31210,6 +31183,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 177.8 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 177.8 209.55 0)
 			(effects
 				(font
@@ -31311,15 +31293,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 391.16 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Weight: 0.12g"
 			(at 391.16 124.46 0)
 			(effects
@@ -31330,6 +31303,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 391.16 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 391.16 124.46 0)
 			(effects
 				(font
@@ -31426,15 +31408,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 193.04 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 193.04 214.63 0)
 			(effects
@@ -31445,6 +31418,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 193.04 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 193.04 214.63 0)
 			(effects
 				(font
@@ -31540,15 +31522,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 254.635 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 254.635 88.265 0)
 			(effects
@@ -31559,6 +31532,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 254.635 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 254.635 88.265 0)
 			(effects
 				(font
@@ -31654,15 +31636,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 52.07 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 52.07 142.24 0)
 			(effects
@@ -31673,6 +31646,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 52.07 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 52.07 142.24 0)
 			(effects
 				(font
@@ -31775,6 +31757,15 @@
 				(hide yes)
 			)
 		)
+		(property "ignore for PCBA" "1"
+			(at 385.826 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76abdd40-d0f4-4110-920c-990508648068")
 		)
@@ -31862,15 +31853,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 76.2 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 76.2 82.55 0)
 			(effects
@@ -31881,6 +31863,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -31974,15 +31965,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 46.99 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 46.99 209.55 0)
 			(effects
@@ -31993,6 +31975,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 46.99 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 46.99 209.55 0)
 			(effects
 				(font
@@ -32107,15 +32098,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 327.66 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 327.66 82.55 0)
 			(effects
@@ -32126,6 +32108,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 327.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 327.66 82.55 0)
 			(effects
 				(font
@@ -32219,15 +32210,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 397.51 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 397.51 116.84 0)
 			(effects
@@ -32238,6 +32220,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 397.51 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 397.51 116.84 0)
 			(effects
 				(font
@@ -32331,15 +32322,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 388.62 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 388.62 138.43 0)
 			(effects
@@ -32350,6 +32332,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 388.62 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 388.62 138.43 0)
 			(effects
 				(font
@@ -32443,15 +32434,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 254.635 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 254.635 24.765 0)
 			(effects
@@ -32462,6 +32444,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 254.635 24.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 254.635 24.765 0)
 			(effects
 				(font
@@ -32557,15 +32548,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 354.965 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Slow lane resonse. R37 and C26 will act as LC-Filter. Larger values will increase response time"
 			(at 354.965 144.78 0)
 			(effects
@@ -32576,6 +32558,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 354.965 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 354.965 144.78 0)
 			(effects
 				(font
@@ -32669,15 +32660,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 362.585 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 362.585 153.67 0)
 			(effects
@@ -32688,6 +32670,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 362.585 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 362.585 153.67 0)
 			(effects
 				(font
@@ -32856,15 +32847,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 27.305 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 27.305 254.635 0)
 			(effects
@@ -32875,6 +32857,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 27.305 254.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 27.305 254.635 0)
 			(effects
 				(font
@@ -32986,15 +32977,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 182.88 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "current limiting"
 			(at 182.88 147.32 0)
 			(effects
@@ -33005,6 +32987,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 182.88 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 182.88 147.32 0)
 			(effects
 				(font
@@ -33101,15 +33092,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 358.14 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Voltage divider with R66 and R1"
 			(at 358.14 88.265 0)
 			(effects
@@ -33120,6 +33102,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 358.14 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 358.14 88.265 0)
 			(effects
 				(font
@@ -33215,15 +33206,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 121.92 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 121.92 157.48 0)
 			(effects
@@ -33234,6 +33216,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 121.92 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 121.92 157.48 0)
 			(effects
 				(font
@@ -33330,15 +33321,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 374.65 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "set hysteresis"
 			(at 374.65 36.83 0)
 			(effects
@@ -33349,6 +33331,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 374.65 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 374.65 36.83 0)
 			(effects
 				(font
@@ -33444,15 +33435,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 154.94 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 154.94 39.37 0)
 			(effects
@@ -33463,6 +33445,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 154.94 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 154.94 39.37 0)
 			(effects
 				(font
@@ -33630,15 +33621,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 339.725 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 339.725 46.99 0)
 			(effects
@@ -33649,6 +33631,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 339.725 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 339.725 46.99 0)
 			(effects
 				(font
@@ -33762,15 +33753,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 165.1 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 165.1 82.55 0)
 			(effects
@@ -33781,6 +33763,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 165.1 82.55 0)
 			(effects
 				(font
@@ -33866,15 +33857,6 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 217.17 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for PCBA" "1"
 			(at 217.17 134.62 0)
 			(effects
 				(font
@@ -34015,15 +33997,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 187.325 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 187.325 157.48 0)
 			(effects
@@ -34034,6 +34007,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 187.325 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 187.325 157.48 0)
 			(effects
 				(font
@@ -34129,15 +34111,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 291.465 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 291.465 146.05 0)
 			(effects
@@ -34148,6 +34121,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 291.465 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 291.465 146.05 0)
 			(effects
 				(font
@@ -34301,15 +34283,6 @@
 			)
 		)
 		(property "Qty Order" "2"
-			(at 239.395 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
 			(at 239.395 73.025 0)
 			(effects
 				(font
@@ -34558,15 +34531,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 129.54 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 129.54 220.345 0)
 			(effects
@@ -34577,6 +34541,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 129.54 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 129.54 220.345 0)
 			(effects
 				(font
@@ -34665,15 +34638,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 265.43 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 265.43 207.01 0)
 			(effects
@@ -34693,6 +34657,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 265.43 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 265.43 207.01 0)
 			(effects
 				(font
@@ -34788,15 +34761,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 271.78 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 271.78 82.55 0)
 			(effects
@@ -34807,6 +34771,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 271.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 271.78 82.55 0)
 			(effects
 				(font
@@ -34900,15 +34873,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 114.935 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 114.935 262.89 0)
 			(effects
@@ -34919,6 +34883,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 114.935 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 114.935 262.89 0)
 			(effects
 				(font
@@ -35032,15 +35005,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 77.47 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 77.47 26.67 0)
 			(effects
@@ -35051,6 +35015,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 77.47 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 77.47 26.67 0)
 			(effects
 				(font
@@ -35146,15 +35119,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 229.235 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 229.235 82.55 0)
 			(effects
@@ -35165,6 +35129,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 229.235 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 229.235 82.55 0)
 			(effects
 				(font
@@ -35261,15 +35234,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 320.04 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "voltage divider with R67 and R71"
 			(at 320.04 87.63 0)
 			(effects
@@ -35280,6 +35244,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 320.04 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 320.04 87.63 0)
 			(effects
 				(font
@@ -35373,15 +35346,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 91.44 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 91.44 132.08 0)
 			(effects
@@ -35392,6 +35356,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 91.44 132.08 0)
 			(effects
 				(font
@@ -35489,15 +35462,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 133.35 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 133.35 124.46 0)
 			(effects
@@ -35508,6 +35472,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 133.35 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 133.35 124.46 0)
 			(effects
 				(font
@@ -35622,15 +35595,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 27.305 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "max. 1 kΩ for 0603 size available, but higher resistance would be better for SNR and lower current"
 			(at 27.305 271.145 0)
 			(effects
@@ -35641,6 +35605,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 27.305 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 27.305 271.145 0)
 			(effects
 				(font
@@ -35727,15 +35700,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 356.616 222.758 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "for connecting your LV System to the DCDC"
 			(at 356.616 222.758 0)
 			(effects
@@ -35755,6 +35719,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
+			(at 356.616 222.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 356.616 222.758 0)
 			(effects
 				(font
@@ -35851,15 +35824,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 160.02 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 160.02 157.48 0)
 			(effects
@@ -35870,6 +35834,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 160.02 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 160.02 157.48 0)
 			(effects
 				(font
@@ -35965,15 +35938,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 27.94 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 27.94 157.48 0)
 			(effects
@@ -35984,6 +35948,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 27.94 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 27.94 157.48 0)
 			(effects
 				(font
@@ -36079,15 +36052,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 22.86 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Voltage Divider with R36 and TH2"
 			(at 22.86 254.635 0)
 			(effects
@@ -36098,6 +36062,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 22.86 254.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 22.86 254.635 0)
 			(effects
 				(font
@@ -36191,15 +36164,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 366.395 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 366.395 125.73 0)
 			(effects
@@ -36210,6 +36174,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 366.395 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 366.395 125.73 0)
 			(effects
 				(font
@@ -36303,15 +36276,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 102.235 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 102.235 254.635 0)
 			(effects
@@ -36322,6 +36286,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 102.235 254.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 102.235 254.635 0)
 			(effects
 				(font
@@ -36417,15 +36390,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 133.35 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 133.35 82.55 0)
 			(effects
@@ -36436,6 +36400,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 133.35 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 133.35 82.55 0)
 			(effects
 				(font
@@ -36529,15 +36502,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 72.39 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "isolated gate driver, see datasheet for more info"
 			(at 72.39 142.24 0)
 			(effects
@@ -36548,6 +36512,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 72.39 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 72.39 142.24 0)
 			(effects
 				(font
@@ -36686,15 +36659,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 358.14 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 358.14 78.74 0)
 			(effects
@@ -36705,6 +36669,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 358.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 358.14 78.74 0)
 			(effects
 				(font
@@ -36818,15 +36791,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 273.685 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 273.685 133.35 0)
 			(effects
@@ -36837,6 +36801,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 273.685 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 273.685 133.35 0)
 			(effects
 				(font
@@ -36934,15 +36907,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 366.395 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "integrated opamp with 2.5V reference souce. Acts somewhat like a Zener diode"
 			(at 366.395 160.02 0)
 			(effects
@@ -36953,6 +36917,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 366.395 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 366.395 160.02 0)
 			(effects
 				(font
@@ -37049,15 +37022,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 98.425 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 98.425 254.635 0)
 			(effects
@@ -37068,6 +37032,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 98.425 254.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 98.425 254.635 0)
 			(effects
 				(font
@@ -37284,24 +37257,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 294.64 186.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 294.64 186.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 294.64 186.055 0)
 			(effects
@@ -37321,6 +37276,24 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 294.64 186.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
+			(at 294.64 186.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 294.64 186.055 0)
 			(effects
 				(font
@@ -37416,15 +37389,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 102.235 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 102.235 271.145 0)
 			(effects
@@ -37435,6 +37399,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 102.235 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 102.235 271.145 0)
 			(effects
 				(font
@@ -37726,15 +37699,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 239.395 45.085 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "limits the maximum switching frequency. Higher value will decrease max. switching frequncy. If set below appx. 680Ω the max. f_sw is set above 350 kHz which results in burst mode."
 			(at 239.395 45.085 0)
 			(effects
@@ -37745,6 +37709,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 239.395 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 239.395 45.085 0)
 			(effects
 				(font
@@ -37841,15 +37814,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 133.35 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 133.35 220.345 0)
 			(effects
@@ -37860,6 +37824,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 133.35 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 133.35 220.345 0)
 			(effects
 				(font
@@ -37973,15 +37946,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 187.325 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 187.325 122.555 0)
 			(effects
@@ -37992,6 +37956,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 187.325 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 187.325 122.555 0)
 			(effects
 				(font
@@ -38087,15 +38060,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 133.35 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 133.35 44.45 0)
 			(effects
@@ -38106,6 +38070,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 133.35 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 133.35 44.45 0)
 			(effects
 				(font
@@ -38202,15 +38175,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 264.795 59.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Main control IC, see datasheet for more info"
 			(at 264.795 59.055 0)
 			(effects
@@ -38221,6 +38185,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 264.795 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 264.795 59.055 0)
 			(effects
 				(font
@@ -38334,15 +38307,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 35.56 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 35.56 271.145 0)
 			(effects
@@ -38353,6 +38317,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 35.56 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 35.56 271.145 0)
 			(effects
 				(font
@@ -38438,15 +38411,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 316.865 189.865 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 316.865 189.865 0)
 			(effects
@@ -38466,6 +38430,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 316.865 189.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 316.865 189.865 0)
 			(effects
 				(font
@@ -38562,15 +38535,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 254 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 254 219.71 0)
 			(effects
@@ -38581,6 +38545,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 254 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 254 219.71 0)
 			(effects
 				(font
@@ -38677,15 +38650,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "use J1.1 or J1.2 (order both just in case)"
 			(at 384.81 238.252 0)
 			(effects
@@ -38696,6 +38660,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 384.81 238.252 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 384.81 238.252 0)
 			(effects
 				(font
@@ -38791,15 +38764,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 77.47 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "current limiting for D14. Current is roughtly 12V/R46"
 			(at 77.47 33.02 0)
 			(effects
@@ -38810,6 +38774,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 77.47 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 77.47 33.02 0)
 			(effects
 				(font
@@ -38894,15 +38867,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 256.54 198.755 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Bridge the middle pad with solder to one of the outer pads for voltage selection. Standard: 3V7. It's not implied to put a component on here."
 			(at 256.54 198.755 0)
 			(effects
@@ -38922,6 +38886,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
+			(at 256.54 198.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 256.54 198.755 0)
 			(effects
 				(font
@@ -39021,15 +38994,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 314.325 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "set hysteresis with R62"
 			(at 314.325 44.45 0)
 			(effects
@@ -39040,6 +39004,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 314.325 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 314.325 44.45 0)
 			(effects
 				(font
@@ -39133,15 +39106,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 354.965 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 354.965 153.67 0)
 			(effects
@@ -39152,6 +39116,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 354.965 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 354.965 153.67 0)
 			(effects
 				(font
@@ -39247,15 +39220,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 337.185 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 337.185 152.4 0)
 			(effects
@@ -39266,6 +39230,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 337.185 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 337.185 152.4 0)
 			(effects
 				(font
@@ -39362,15 +39335,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 125.73 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "switch must handle at least 0.5 A, Do not install if clip-on installation is used, install a 2.54 mm Pin header on the bottom side instead"
 			(at 125.73 199.39 0)
 			(effects
@@ -39381,6 +39345,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 125.73 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 125.73 199.39 0)
 			(effects
 				(font
@@ -39474,15 +39447,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 315.595 138.43 0)
 			(effects
@@ -39493,6 +39457,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 315.595 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 315.595 138.43 0)
 			(effects
 				(font
@@ -39589,15 +39562,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 276.86 89.535 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 276.86 89.535 0)
 			(effects
@@ -39608,6 +39572,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 276.86 89.535 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 276.86 89.535 0)
 			(effects
 				(font
@@ -39704,15 +39677,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 311.785 138.43 0)
 			(effects
@@ -39723,6 +39687,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 311.785 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 311.785 138.43 0)
 			(effects
 				(font
@@ -39819,15 +39792,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 347.345 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 347.345 32.385 0)
 			(effects
@@ -39838,6 +39802,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 347.345 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 347.345 32.385 0)
 			(effects
 				(font
@@ -39935,15 +39908,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 133.35 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 133.35 149.86 0)
 			(effects
@@ -39954,6 +39918,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 133.35 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 133.35 149.86 0)
 			(effects
 				(font
@@ -40067,15 +40040,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 119.38 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 119.38 57.785 0)
 			(effects
@@ -40086,6 +40050,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 119.38 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 119.38 57.785 0)
 			(effects
 				(font
@@ -40266,15 +40239,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 144.78 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 144.78 212.09 0)
 			(effects
@@ -40285,6 +40249,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 144.78 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 144.78 212.09 0)
 			(effects
 				(font
@@ -40390,15 +40363,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 63.5 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 63.5 204.47 0)
 			(effects
@@ -40409,6 +40373,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 63.5 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 63.5 204.47 0)
 			(effects
 				(font
@@ -40504,15 +40477,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 88.9 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 88.9 33.02 0)
 			(effects
@@ -40523,6 +40487,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 88.9 33.02 0)
 			(effects
 				(font
@@ -40619,15 +40592,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 318.77 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "Used as low current voltage reference, normal LDO would be fine too."
 			(at 318.77 73.66 0)
 			(effects
@@ -40638,6 +40602,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 318.77 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 318.77 73.66 0)
 			(effects
 				(font
@@ -40736,15 +40709,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 105.41 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 105.41 82.55 0)
 			(effects
@@ -40755,6 +40719,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 105.41 82.55 0)
 			(effects
 				(font
@@ -40850,15 +40823,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 64.77 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 64.77 53.34 0)
 			(effects
@@ -40869,6 +40833,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 64.77 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 64.77 53.34 0)
 			(effects
 				(font
@@ -41094,15 +41067,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 109.22 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 109.22 57.785 0)
 			(effects
@@ -41113,6 +41077,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 109.22 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 109.22 57.785 0)
 			(effects
 				(font
@@ -41211,15 +41184,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 180.34 57.785 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 180.34 57.785 0)
 			(effects
@@ -41230,6 +41194,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 180.34 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 180.34 57.785 0)
 			(effects
 				(font
@@ -41346,15 +41319,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 277.495 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 277.495 133.35 0)
 			(effects
@@ -41365,6 +41329,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 277.495 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 277.495 133.35 0)
 			(effects
 				(font
@@ -41460,15 +41433,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 76.2 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 76.2 44.45 0)
 			(effects
@@ -41479,6 +41443,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 76.2 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 76.2 44.45 0)
 			(effects
 				(font
@@ -41572,15 +41545,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 31.75 271.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 31.75 271.145 0)
 			(effects
@@ -41591,6 +41555,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 31.75 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 31.75 271.145 0)
 			(effects
 				(font
@@ -41686,15 +41659,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 78.74 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 78.74 220.345 0)
 			(effects
@@ -41705,6 +41669,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 78.74 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 78.74 220.345 0)
 			(effects
 				(font
@@ -41801,15 +41774,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 330.835 37.465 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "set hysteresis"
 			(at 330.835 37.465 0)
 			(effects
@@ -41820,6 +41784,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 330.835 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 330.835 37.465 0)
 			(effects
 				(font
@@ -41913,15 +41886,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 26.67 220.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 26.67 220.345 0)
 			(effects
@@ -41932,6 +41896,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 26.67 220.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 26.67 220.345 0)
 			(effects
 				(font
@@ -42034,6 +42007,15 @@
 				(hide yes)
 			)
 		)
+		(property "ignore for PCBA" "1"
+			(at 385.826 194.818 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cca57110-869f-49b4-81db-b476b40f6330")
 		)
@@ -42121,15 +42103,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 358.14 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 358.14 32.385 0)
 			(effects
@@ -42140,6 +42113,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 358.14 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 358.14 32.385 0)
 			(effects
 				(font
@@ -42234,15 +42216,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 297.18 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 297.18 32.385 0)
 			(effects
@@ -42253,6 +42226,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 297.18 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 297.18 32.385 0)
 			(effects
 				(font
@@ -42349,15 +42331,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 308.61 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 308.61 32.385 0)
 			(effects
@@ -42368,6 +42341,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 308.61 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 308.61 32.385 0)
 			(effects
 				(font
@@ -42498,15 +42480,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 38.1 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 38.1 148.59 0)
 			(effects
@@ -42517,6 +42490,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 38.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 38.1 148.59 0)
 			(effects
 				(font
@@ -42613,15 +42595,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 162.56 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 162.56 204.47 0)
 			(effects
@@ -42632,6 +42605,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 162.56 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 162.56 204.47 0)
 			(effects
 				(font
@@ -42727,15 +42709,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 27.94 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 27.94 142.24 0)
 			(effects
@@ -42746,6 +42719,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 27.94 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 27.94 142.24 0)
 			(effects
 				(font
@@ -42843,15 +42825,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 357.505 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "optocoupler for isolated voltage control loop. Note: If different type or CRT is used, the gain (R41) may need to be changed"
 			(at 357.505 125.73 0)
 			(effects
@@ -42862,6 +42835,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 357.505 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 357.505 125.73 0)
 			(effects
 				(font
@@ -42962,15 +42944,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 109.855 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 109.855 190.5 0)
 			(effects
@@ -42981,6 +42954,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 109.855 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 109.855 190.5 0)
 			(effects
 				(font
@@ -43142,15 +43124,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 297.815 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 297.815 146.05 0)
 			(effects
@@ -43161,6 +43134,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 297.815 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 297.815 146.05 0)
 			(effects
 				(font
@@ -43248,15 +43230,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 88.9 253.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 88.9 253.365 0)
 			(effects
@@ -43276,6 +43249,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 88.9 253.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 88.9 253.365 0)
 			(effects
 				(font
@@ -43426,24 +43408,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 294.64 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 294.64 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 294.64 196.85 0)
 			(effects
@@ -43463,6 +43427,24 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 294.64 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
+			(at 294.64 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 294.64 196.85 0)
 			(effects
 				(font
@@ -43558,15 +43540,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 168.275 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 168.275 209.55 0)
 			(effects
@@ -43577,6 +43550,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 168.275 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 168.275 209.55 0)
 			(effects
 				(font
@@ -43679,6 +43661,15 @@
 				(hide yes)
 			)
 		)
+		(property "ignore for PCBA" "1"
+			(at 385.826 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22150916-98ae-4039-a117-b05806ff819d")
 		)
@@ -43766,15 +43757,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBom" "1"
-			(at 144.78 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 144.78 82.55 0)
 			(effects
@@ -43785,6 +43767,15 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 144.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 144.78 82.55 0)
 			(effects
 				(font
@@ -43871,15 +43862,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 395.732 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" "install on the top or bottom depending on normal or clip-on mount"
 			(at 395.732 137.414 0)
 			(effects
@@ -43899,6 +43881,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
+			(at 395.732 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
 			(at 395.732 137.414 0)
 			(effects
 				(font
@@ -43994,24 +43985,6 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for PCBA" "1"
-			(at 225.425 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBom" "1"
-			(at 225.425 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "comment" ""
 			(at 225.425 48.26 0)
 			(effects
@@ -44022,6 +43995,24 @@
 			)
 		)
 		(property "Source" "Mouser"
+			(at 225.425 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for PCBA" "1"
+			(at 225.425 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM" "1"
 			(at 225.425 48.26 0)
 			(effects
 				(font

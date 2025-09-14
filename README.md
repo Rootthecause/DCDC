@@ -22,6 +22,7 @@ Rootthecause / Liv
 # Updates
 |Date | Description |
 |:---------------------:|:------|
+|September 15, 2025| **IMPORTANT NOTICE**: There was a complaint about the converter not being rules conform. Due to other personal priorities it might take some weeks to solve the adressed points. There is also the chance of some points unable to be solved. See #10 for further details.|
 | August 6, 2025 | Announcing the v10 development - ideas welcome! Read more [here](https://github.com/Rootthecause/DCDC/discussions/9). DCDCv10 [survey](https://forms.gle/ou8AZbYJj4cU9K3A8).|
 | July 18, 2025 | bad F_min setting lead to repeatable FET destruction, please re-read the Build Guide Pages 35/36 if you've set up your replica before this change. See [issue#8](https://github.com/Rootthecause/DCDC/issues/8) |
 <br>
@@ -35,7 +36,7 @@ Rootthecause / Liv
 | KiCAD Files| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/kicad)|-|
 | Schematic [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/kicad/DCDCv9-3.pdf) |-|
 | LTspice Simulation| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/ltspice)|-|
-| Mesurements Table [xlsx] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/DCDCv9-3_Table.xlsx) |-|
+| Measurements Table [xlsx] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/DCDCv9-3_Table.xlsx) |-|
 | Scrutineering Support Presentation [PPTX] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/scrutineering_support_files/DCDCv9-3_Scrutineering_Support_Presentation.pptx)|-|
 
 
@@ -83,7 +84,7 @@ Features
 - onboard HV- and LV fuses
 - minimum isolation distance 4.5 mm (According to rule EV 4.3.6, Table 5, Conformal Coating: 600V DC -> min. 4 mm spacing required)
 - optional back side connectors for on-PCB mount 
-- FSG-Rules 2024 conform (and afaik 2025 too)
+- NOT FULLY FSG-Rules 2025 conform [September 15, 2025 there was a complaint, see #10 for further information. This may or may not resolved in the future.]
 </strong>
 <br>
 <br>

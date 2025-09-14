@@ -604,7 +604,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -628,12 +628,18 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "ignore for PCBA",
           "name": "ignore for PCBA",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "ignore for iBOM",
+          "name": "ignore for iBOM",
           "show": true
         },
         {
@@ -647,12 +653,6 @@
           "label": "Height",
           "name": "Height",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "ignore for iBom",
-          "name": "ignore for iBom",
-          "show": true
         },
         {
           "group_by": false,
@@ -718,13 +718,13 @@
           "group_by": false,
           "label": "comment",
           "name": "comment",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Source",
           "name": "Source",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",

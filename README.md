@@ -1,6 +1,6 @@
 [![kicad](https://img.shields.io/badge/KiCad-8.0.5-1F4FFF)](https://www.kicad.org/)
 [![LTspice](https://img.shields.io/badge/LTspice-17.0-910029)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
-[![Discord](https://img.shields.io/badge/Discord_Server-7289da)](https://discord.gg/3PkHGpJvR4)
+[![Discord](https://img.shields.io/badge/DCDC_Discord_Server-7289da)](https://discord.gg/3PkHGpJvR4)
 
 
 ![](https://github.com/Rootthecause/DCDC/blob/main/documentation/pictures/header.png?raw=true)
@@ -18,8 +18,6 @@ Have fun! Do not lick things with spark symbols on :)
 
 Best regards,
 Rootthecause / Liv 
-
-https://discord.gg/3PkHGpJvR4
 
 <br>
 

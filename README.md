@@ -24,6 +24,7 @@ Rootthecause / Liv
 # Updates
 |Date | Description |
 |:---------------------:|:------|
+|January 29, 2026| First public v10 schematic, see [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15634156), also contains a timeline and small v9-3 update|
 |January 4, 2026| New year's update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15400450) |
 |November 30, 2025| Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15114408), added [![Discord](https://img.shields.io/badge/Discord_Server-7289da)](https://discord.gg/3PkHGpJvR4) for faster communication.|
 |September 15, 2025| **IMPORTANT NOTICE**: There was a complaint about the converter not being rules conform. Due to other personal priorities it might take some weeks to solve the addressed points. There is also the chance of some points unable to be resolved for the Version 9-3r. See [issue#10](https://github.com/Rootthecause/DCDC/issues/10) for further details.|

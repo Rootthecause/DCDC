@@ -21692,7 +21692,7 @@
 	)
 	(symbol
 		(lib_id "DC-DC Symbol Lib:Fuse_clips")
-		(at 387.604 210.058 0)
+		(at 387.604 211.328 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21701,7 +21701,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ab78d7e-2132-43f7-96f4-dd68972d3225")
 		(property "Reference" "F1.2"
-			(at 392.43 210.0579 0)
+			(at 392.43 211.3279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21710,7 +21710,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 392.43 211.963 0)
+			(at 392.43 213.233 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21719,7 +21719,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 387.604 210.058 0)
+			(at 387.604 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21728,7 +21728,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Littelfuse/01220083Z?qs=95aqoVzNh5YRvw7yc4yLmA%3D%3D"
-			(at 387.604 210.058 0)
+			(at 387.604 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21737,7 +21737,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 387.604 210.058 0)
+			(at 387.604 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21746,7 +21746,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "01220083Z"
-			(at 387.604 210.058 0)
+			(at 387.604 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21755,7 +21755,7 @@
 			)
 		)
 		(property "Source" "Mouser"
-			(at 387.604 210.058 0)
+			(at 387.604 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22641,7 +22641,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 357.378 248.92 180)
+		(at 357.378 242.57 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22649,7 +22649,7 @@
 		(dnp no)
 		(uuid "246647fa-8890-471b-8150-60ae3586672f")
 		(property "Reference" "J3.1"
-			(at 359.537 243.6368 0)
+			(at 359.537 237.2868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22658,7 +22658,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 355.346 246.4054 0)
+			(at 355.346 240.0554 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22668,7 +22668,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22677,7 +22677,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43645-0200?qs=4XSMV6Twtb2TZ7elJDViLw%3D%3D"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22686,7 +22686,7 @@
 			)
 		)
 		(property "Description" "Receptacle Housing"
-			(at 357.378 251.714 0)
+			(at 357.378 245.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22694,7 +22694,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "43645-0200"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22703,7 +22703,7 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22712,7 +22712,7 @@
 			)
 		)
 		(property "comment" "Receptacle Housing"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22721,7 +22721,7 @@
 			)
 		)
 		(property "Source" "Mouser"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22730,7 +22730,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 357.378 248.92 0)
+			(at 357.378 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28800,118 +28800,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 357.378 238.252 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "53e8b988-7214-4228-9e9c-9fe25d1c5329")
-		(property "Reference" "J1.1"
-			(at 357.378 232.918 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 354.33 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "~"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/TE-Connectivity/284051-2?qs=OYEvAappxlxBiuwfKz%2FgFA%3D%3D"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "HV Plug angled"
-			(at 357.378 241.046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" "284051-2"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" "use J1.1 or J1.2 (order both just in case)"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for PCBA" "1"
-			(at 357.378 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e793091f-c630-4c59-8a9e-16216d64d4d4")
-		)
-		(pin "2"
-			(uuid "2fb5bc9e-a285-43b9-b2e8-b614c2735b38")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J1.1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 41.91 271.145 180)
 		(unit 1)
@@ -29353,7 +29241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/TE-Connectivity/282828-2?qs=%2FmCiCROZvxYuPZyQ6f5T0w%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/691416600002?qs=sPbYRqrBIVmnqvpcTPGD%252Bw%3D%3D"
 			(at 19.05 40.64 0)
 			(effects
 				(font
@@ -29371,7 +29259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "282828-2"
+		(property "Manufacturer_Part_Number" "691416600002 "
 			(at 19.05 40.64 0)
 			(effects
 				(font
@@ -29842,7 +29730,7 @@
 	)
 	(symbol
 		(lib_id "Motor:Fan")
-		(at 385.318 224.028 0)
+		(at 385.318 226.568 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29851,15 +29739,6 @@
 		(fields_autoplaced yes)
 		(uuid "631dab2c-a3ef-465f-b638-d84928851a1c")
 		(property "Reference" "M1"
-			(at 390.144 222.7579 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Fan"
 			(at 390.144 225.2979 0)
 			(effects
 				(font
@@ -29868,8 +29747,17 @@
 				(justify left)
 			)
 		)
+		(property "Value" "Fan"
+			(at 390.144 227.8379 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "DCDC-Footprints:PinHeader_1x02_P2.54mm_Vertical"
-			(at 385.318 223.774 0)
+			(at 385.318 226.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29878,7 +29766,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.amazon.de/gp/product/B071JN6HKM/"
-			(at 385.318 223.774 0)
+			(at 385.318 226.314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29887,7 +29775,7 @@
 			)
 		)
 		(property "Description" "Fan"
-			(at 385.318 224.028 0)
+			(at 385.318 226.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29896,7 +29784,7 @@
 			)
 		)
 		(property "Source" "Amazon"
-			(at 385.318 224.028 0)
+			(at 385.318 226.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29905,7 +29793,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
-			(at 385.318 224.028 0)
+			(at 385.318 226.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33658,7 +33546,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 382.27 246.38 0)
+		(at 382.27 240.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33666,7 +33554,7 @@
 		(dnp no)
 		(uuid "8a0cd50b-0074-4625-9d4a-6972841dc1a9")
 		(property "Reference" "J3.2"
-			(at 379.349 246.38 0)
+			(at 379.349 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33674,7 +33562,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 382.905 243.332 0)
+			(at 382.905 236.982 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33683,7 +33571,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 382.27 246.38 0)
+			(at 382.27 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33692,7 +33580,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/35044-9102?qs=ZlMU7IUseCu3dWv7JcWPgw%3D%3D"
-			(at 382.27 246.38 0)
+			(at 382.27 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33701,7 +33589,7 @@
 			)
 		)
 		(property "Description" "Crimp for molex micofit receptacle housing"
-			(at 382.27 251.968 0)
+			(at 382.27 245.618 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -33709,7 +33597,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "35044-9102"
-			(at 382.27 246.38 0)
+			(at 382.27 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34433,7 +34321,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 382.27 248.666 0)
+		(at 382.27 242.316 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34441,7 +34329,7 @@
 		(dnp no)
 		(uuid "8d690c8b-0ff2-4ecc-878e-3c6cb7191085")
 		(property "Reference" "J3.3"
-			(at 379.349 248.666 0)
+			(at 379.349 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34449,7 +34337,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 382.905 245.618 0)
+			(at 382.905 239.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34458,7 +34346,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 382.27 248.666 0)
+			(at 382.27 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34467,7 +34355,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/35044-9102?qs=ZlMU7IUseCu3dWv7JcWPgw%3D%3D"
-			(at 382.27 248.666 0)
+			(at 382.27 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34476,7 +34364,7 @@
 			)
 		)
 		(property "Description" "Crimp for molex micofit receptacle housing"
-			(at 382.27 248.666 0)
+			(at 382.27 242.316 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -34485,7 +34373,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "35044-9102"
-			(at 382.27 248.666 0)
+			(at 382.27 242.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36663,7 +36551,7 @@
 	)
 	(symbol
 		(lib_id "xt60_male (output):XT60 Male (output)")
-		(at 356.616 222.758 0)
+		(at 356.616 225.298 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36671,7 +36559,7 @@
 		(dnp no)
 		(uuid "a4a56989-1fbf-4bf4-808a-e46b1b7c4fd1")
 		(property "Reference" "J5.1"
-			(at 356.87 220.3449 0)
+			(at 356.87 222.8849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36680,7 +36568,7 @@
 			)
 		)
 		(property "Value" "XT60 Female (wrong symbol ik)"
-			(at 346.837 228.0919 0)
+			(at 346.837 230.6319 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -36689,7 +36577,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36698,7 +36586,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.amazon.de/RUNCCI%C2%AE-Connector-M%C3%A4nnlich-Weiblich-Rundstecker/dp/B07N1N2C94/"
-			(at 357.886 227.838 0)
+			(at 357.886 230.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36707,7 +36595,7 @@
 			)
 		)
 		(property "Description" "Female"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36716,7 +36604,7 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36725,7 +36613,7 @@
 			)
 		)
 		(property "comment" "for connecting your LV System to the DCDC"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36734,7 +36622,7 @@
 			)
 		)
 		(property "Source" "Amazon"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36743,7 +36631,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36752,7 +36640,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 356.616 222.758 0)
+			(at 356.616 225.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39675,118 +39563,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 384.81 238.252 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "c263a418-1300-45f6-8fa9-57fc9277edca")
-		(property "Reference" "J1.2"
-			(at 384.81 232.918 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 381.762 238.252 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "~"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/TE-Connectivity/282809-2?qs=tAlKl34sQZui56eeBzZTxA%3D%3D"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "HV Plug straight"
-			(at 384.81 241.046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" "282809-2"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" "use J1.1 or J1.2 (order both just in case)"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for PCBA" "1"
-			(at 384.81 238.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "015320b4-40ff-4701-966f-33ad63eaecf8")
-		)
-		(pin "2"
-			(uuid "da32d640-d67c-4c2b-909c-a4d20c3205aa")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J1.2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 77.47 33.02 270)
 		(unit 1)
@@ -41181,7 +40957,7 @@
 	)
 	(symbol
 		(lib_id "DC-DC Symbol Lib:Fuse_clips")
-		(at 378.46 210.058 0)
+		(at 378.46 211.328 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41190,7 +40966,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce84530f-8285-401f-a323-ce75b7423ed3")
 		(property "Reference" "F1.1"
-			(at 383.286 210.0579 0)
+			(at 383.286 211.3279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41199,7 +40975,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 383.286 211.963 0)
+			(at 383.286 213.233 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41208,7 +40984,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 378.46 210.058 0)
+			(at 378.46 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41217,7 +40993,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Littelfuse/01220083Z?qs=95aqoVzNh5YRvw7yc4yLmA%3D%3D"
-			(at 378.46 210.058 0)
+			(at 378.46 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41226,7 +41002,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 378.46 210.058 0)
+			(at 378.46 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41235,7 +41011,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "01220083Z"
-			(at 378.46 210.058 0)
+			(at 378.46 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41244,7 +41020,7 @@
 			)
 		)
 		(property "Source" "Mouser"
-			(at 378.46 210.058 0)
+			(at 378.46 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,24 +1,23 @@
-
-This file contains some additional info on the build guide.
+This file contains some info in addition to the build guide.
 
 Resin used: Liqcreate Flame Retardant HDT 
 Link: https://www.liqcreate.com/supportarticles/flame-retardant-hdt-resin-3d/
 
 Notes about shinkage:
-The STL was designed without shinkage compensation. 
+All STLs are provided without shinkage compensation. 
 Liqcreate's Homepage states 100,65 % Shinkage for X and Y, and 100.50 for Z. 
 
 Here are my own measurements just to check.
 
-ETD39 Isolator
+ETD39 Isolator (old version before 260309)
 |                       |  X             | Y    | Z    |
 |:---------------------:|:--------------:|:----:|:---:|
-|Construction           |  41.00 mm      |15.00 | 6.00|
+|Construction           |  41.00 mm      |15.00 | 6.00|◊
 |Part before curing     |  40.93 mm      |15.10 | 6.18|
 |Part 10 min curing     |  40.90 mm      |15.10 | 6.20|
 |Part 20 min curing     |  40.88 mm      |15.11 | 6.22|
 |Part 30 min curing     |  40.88 mm      |15.11 | 6.22|
-||100,29%|99,27%|96,46%|
+|required compensation|100,29%|99,27%|96,46%|
 
 ETD39 Prim
 
@@ -29,7 +28,7 @@ ETD39 Prim
 |Part 10 min curing     |  21.91 mm      |12.69 | 14.82|
 |Part 20 min curing     |  21.91 mm      |12.69 | 14.81|
 |Part 30 min curing     |  21.90 mm      |12.69 | 14.80|
-||99,09%|101,65%|100,68%|
+|required compensation|99,09%|101,65%|100,68%|
 
 ETD39 Sek
 
@@ -40,7 +39,7 @@ ETD39 Sek
 |Part 10 min curing     |  7.20 mm       |12.71 | 14.79|
 |Part 20 min curing     |  7.19 mm       |12.71 | 14.79|
 |Part 30 min curing     |  7.18 mm       |12.70 | 14.78|
-||97,49%|101,58%|100,81%|
+|required compensation|97,49%|101,58%|100,81%|
 
 *unclear what happened there
 
@@ -58,20 +57,5 @@ Sanding of the flat end-surfaces is allowable if done prior to the isolation tes
 - use (left over) PTFE-Tube from a bowden 3D-Printer to stirr the Epoxy. When hardened, it can be easily removed from the tube and be reused.
 - you can use hot air (e.g. from a solder station) to warm up deposited epoxy. When warmed, it removes air bubbles in the epoxy and lowers viscosity. This will result in nice surfaces even when the epoxy has started to harden. 
 - lay the stirr-tube/rod in the rest of the epoxy. This will give you a good idea how hard the epoxy on the transformer is, without poking it.
-
-
-Winding scheme:
-- Primary (left half): 
-Layer 1: 6 Windings
-Layer 2: 5 Windings 
-Layer 3: 3 Windings
-- Primary (right half): 
-Layer 1: 6 Windings
-Layer 2: 5 Windings 
-Layer 3: 4 Windings
-
-- Secondaries:
-- two inner winding (clockwise, it doesn't matter, as long as the other is the same way around)
-- two outer windungs ontop of the inner windings. (clockwise)
 
 

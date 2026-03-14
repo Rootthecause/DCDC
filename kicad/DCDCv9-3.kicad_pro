@@ -96,17 +96,27 @@
         "hole_clearance|137028750|84123750|afd5c2b7-c9c0-4d0e-8eea-4463b428f62c|9ff4c413-9b6e-4e8d-a399-86be783fbd0f",
         "hole_clearance|141315000|86105000|eda208b5-1921-4557-9748-47e926b28037|3acd7cb4-e371-4502-a94f-d6e1c558b113",
         "hole_clearance|142803500|85877000|3acd7cb4-e371-4502-a94f-d6e1c558b113|77fd991c-f847-4cc9-a3a6-66576f8e9a05",
+        "hole_clearance|156590000|107605000|b2b10204-422b-4e22-9e86-c3a85a85dbe2|ea18ded3-bea4-49a1-b499-535f242df69a",
+        "hole_clearance|158590000|106605000|b2b10204-422b-4e22-9e86-c3a85a85dbe2|7786da59-2c2e-4047-8dfb-b784f9453001",
+        "hole_clearance|158890000|109405000|6b536f6f-d1ff-486e-95d6-f911160ee5b1|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|74aea019-2e81-44bf-ab4e-17e7aef65d12|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|7786da59-2c2e-4047-8dfb-b784f9453001|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|85f8ba3a-c4bd-48c5-abfd-03609f4a3d33|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|a4e7d26d-39d0-48dc-a7d7-a8e63290a873|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|ea18ded3-bea4-49a1-b499-535f242df69a|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|158890000|109405000|f384e31e-8ba6-4fb3-934b-8eecc69574d8|b2b10204-422b-4e22-9e86-c3a85a85dbe2",
+        "hole_clearance|159590000|106605000|b2b10204-422b-4e22-9e86-c3a85a85dbe2|6b536f6f-d1ff-486e-95d6-f911160ee5b1",
+        "hole_clearance|160090000|111705000|b2b10204-422b-4e22-9e86-c3a85a85dbe2|74aea019-2e81-44bf-ab4e-17e7aef65d12",
+        "hole_clearance|161090000|110705000|b2b10204-422b-4e22-9e86-c3a85a85dbe2|a4e7d26d-39d0-48dc-a7d7-a8e63290a873",
         "missing_courtyard|103770000|106140000|48966ae8-f8ec-4624-a4fc-b19ed47c165a|00000000-0000-0000-0000-000000000000",
-        "missing_courtyard|114625000|80150000|b1c89ff2-785e-4af3-be02-88769f205f8b|00000000-0000-0000-0000-000000000000",
-        "missing_courtyard|114640000|80150000|4a3c3174-a514-433f-822a-a16e49d7eb80|00000000-0000-0000-0000-000000000000",
+        "missing_courtyard|114975000|76875000|b1c89ff2-785e-4af3-be02-88769f205f8b|00000000-0000-0000-0000-000000000000",
+        "missing_courtyard|114990000|76875000|4a3c3174-a514-433f-822a-a16e49d7eb80|00000000-0000-0000-0000-000000000000",
         "missing_courtyard|124510000|115240000|b762e12b-2cd0-410b-b5bc-dbad5cb00b8e|00000000-0000-0000-0000-000000000000",
         "missing_courtyard|124680000|121500000|35c9e8e5-2edf-4727-b0e5-f907653e05c3|00000000-0000-0000-0000-000000000000",
         "missing_courtyard|126134827|100166399|fc946b37-61d5-48cd-aa31-54dd6a1632f7|00000000-0000-0000-0000-000000000000",
-        "pth_inside_courtyard|109630000|79435000|208a2c39-45ae-4e67-a854-08d69968ccb3|42787517-135b-4bcb-b011-c3da5c7b91a8",
         "pth_inside_courtyard|109785000|76955000|366ea2a7-9961-4fe4-9cc6-b9b9a01f4b7e|aba9cfe4-c321-407c-a132-8864d9c9f6be",
         "pth_inside_courtyard|112325000|76955000|ea1a6a00-3a93-466d-a100-29070bfabc8d|aba9cfe4-c321-407c-a132-8864d9c9f6be",
         "pth_inside_courtyard|117850000|76955000|ce66628c-cf1f-40d2-b2f1-d98699ae7958|aba9cfe4-c321-407c-a132-8864d9c9f6be",
-        "pth_inside_courtyard|119630000|79435000|01da4b50-59f5-44fc-844a-6e6635a9a9bf|e9953185-efc7-4de3-a73b-89c78c7b3b42",
         "pth_inside_courtyard|120390000|76955000|b30fd056-52ac-46d5-83e7-4bb2cfdb8a59|aba9cfe4-c321-407c-a132-8864d9c9f6be",
         "silk_over_copper|109757149|89460000|8e2438e8-aef5-46ce-974d-5f77b8d498c3|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|124565000|81212870|b57bd2be-eb71-4626-95cb-4d2d9ec5a036|00000000-0000-0000-0000-000000000000",
@@ -611,7 +621,7 @@
           "group_by": false,
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -635,12 +645,12 @@
           "group_by": false,
           "label": "ignore for PCBA",
           "name": "ignore for PCBA",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
-          "label": "ignore for iBOM",
-          "name": "ignore for iBOM",
+          "label": "ignore for iBOM PCBA",
+          "name": "ignore for iBOM PCBA",
           "show": true
         },
         {
@@ -728,7 +738,7 @@
           "show": false
         }
       ],
-      "filter_string": "B66363GX197",
+      "filter_string": "R75",
       "group_symbols": true,
       "name": "",
       "sort_asc": true,

@@ -5,8 +5,8 @@
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "A3")
 	(title_block
-		(title "DC/DC v9-3r1")
-		(date "2025-06-29")
+		(title "DC/DC v9-3r1.4")
+		(date "2026-03-14")
 		(company "Author: Rootthecause")
 	)
 	(lib_symbols
@@ -516,193 +516,6 @@
 				)
 				(pin passive line
 					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Connector:Screw_Terminal_01x02"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Screw_Terminal_01x02"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "screw terminal"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TerminalBlock*:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Screw_Terminal_01x02_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center 0 -2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 0.508) (xy 0.508 -0.3302)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -7023,6 +6836,175 @@
 				)
 			)
 		)
+		(symbol "Samacsys:43650-0315"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J1"
+				(at 17.145 -1.2699 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "43650-0315"
+				(at 17.145 -3.8099 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Samacsys:43650-03YY_151617"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500215_sd.pdf"
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Single Row, 3 Circuits, with PCB Polarizing Peg, Glow-Wire Capable, Black"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "9.9"
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "538-43650-0315"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/43650-0315?qs=Nb99Pa9xYq%2FPpvf19i2uYA%3D%3D"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Molex"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "43650-0315"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "43650-0315_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 7.62 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Samacsys:ASPI-4030S-100M-T"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -11574,8 +11556,140 @@
 		(uuid "fe012c68-8edc-4c73-b42e-1981ce0d9150")
 	)
 	(no_connect
+		(at 387.35 242.57)
+		(uuid "01cc0739-fb54-4e8e-a197-2ced9a3dba67")
+	)
+	(no_connect
+		(at 388.62 201.93)
+		(uuid "067fe4b4-3b36-470f-aba8-46843e495559")
+	)
+	(no_connect
+		(at 353.06 227.203)
+		(uuid "15e5db4e-f7bf-4bda-82fd-687cde5fadf5")
+	)
+	(no_connect
+		(at 385.445 219.075)
+		(uuid "162be409-f0e2-4ae2-b88b-0798e4bae50a")
+	)
+	(no_connect
+		(at 60.325 323.85)
+		(uuid "18e0fc3f-fa94-4162-94fb-0cda636e3446")
+	)
+	(no_connect
+		(at 335.915 242.57)
+		(uuid "19b7ebd8-e468-4a8e-a9fd-c955d5c41dbd")
+	)
+	(no_connect
+		(at 317.5 237.49)
+		(uuid "1c7230df-29ab-4c3f-a166-8c8d2aed943e")
+	)
+	(no_connect
+		(at 47.625 323.85)
+		(uuid "35407478-b541-4586-aec3-56aba018260e")
+	)
+	(no_connect
+		(at 20.32 314.325)
+		(uuid "36c2b347-cef8-49bf-bfc4-b0a3f271edbb")
+	)
+	(no_connect
+		(at 17.145 325.755)
+		(uuid "5d5996d2-f591-4b7c-9f4f-7b7da5bccb0c")
+	)
+	(no_connect
+		(at 317.5 242.57)
+		(uuid "5da65bd6-ca27-42ea-89bf-b3e2007bc86a")
+	)
+	(no_connect
+		(at 387.35 240.03)
+		(uuid "69651a84-ae87-4a91-a83d-05c3eea75b47")
+	)
+	(no_connect
+		(at 383.54 196.85)
+		(uuid "6a6ee8e5-ab3b-4388-8c2b-f18af35268e1")
+	)
+	(no_connect
+		(at 359.41 215.265)
+		(uuid "71dadba4-3c02-4c21-a80c-834df18f79f6")
+	)
+	(no_connect
 		(at 201.295 151.13)
 		(uuid "78e763ce-21f7-42a4-895a-f7b91ecfe5c8")
+	)
+	(no_connect
+		(at 17.145 303.53)
+		(uuid "8567658b-dc6a-4f7e-938c-902592272f42")
+	)
+	(no_connect
+		(at 362.585 240.03)
+		(uuid "9b07b619-70dc-4639-a03d-3176485bda84")
+	)
+	(no_connect
+		(at 385.445 231.775)
+		(uuid "a0df3f3c-e7d8-4772-82a5-3eb68b97cb7a")
+	)
+	(no_connect
+		(at 383.54 194.31)
+		(uuid "ab7944d8-939c-4c0d-a28a-41f2f02138a0")
+	)
+	(no_connect
+		(at 388.62 199.39)
+		(uuid "af56e7be-8871-4d50-b540-436b247a3623")
+	)
+	(no_connect
+		(at 359.41 207.645)
+		(uuid "b00e2a02-ac78-4ce0-a034-635f723cce9a")
+	)
+	(no_connect
+		(at 388.62 197.485)
+		(uuid "b1e46686-69ea-4e26-b896-e1dd1fed3dec")
+	)
+	(no_connect
+		(at 34.925 314.96)
+		(uuid "b6f4ea9e-48b7-44f1-8248-071eeae6bd16")
+	)
+	(no_connect
+		(at 335.915 240.03)
+		(uuid "b7ae12a1-59c6-47d3-b829-04dccf658e08")
+	)
+	(no_connect
+		(at 317.5 240.03)
+		(uuid "b93a7b4f-3bb1-4790-9f9f-55544223907d")
+	)
+	(no_connect
+		(at 26.035 325.755)
+		(uuid "ca0c8518-4b28-4124-ad6a-8994d482ae36")
+	)
+	(no_connect
+		(at 362.585 242.57)
+		(uuid "cbda80e9-edd5-4a79-864e-ab5868c4719c")
+	)
+	(no_connect
+		(at 34.925 325.755)
+		(uuid "d9dd19f0-02f3-49b2-8a70-783983f665b3")
+	)
+	(no_connect
+		(at 335.915 237.49)
+		(uuid "e0321b9d-71f2-4adb-aa45-29747cc2c26f")
+	)
+	(no_connect
+		(at 353.06 225.425)
+		(uuid "ec874002-4529-4a81-a883-8d7db887f913")
+	)
+	(no_connect
+		(at 47.625 325.755)
+		(uuid "ee46ef98-cac9-4b24-9082-8505bf05c78a")
+	)
+	(no_connect
+		(at 383.54 192.405)
+		(uuid "f1a26572-ca3d-4806-b4d2-537f00426d96")
+	)
+	(no_connect
+		(at 22.86 39.37)
+		(uuid "fbac6cb3-00b9-466a-bd68-01b73eb358b6")
+	)
+	(no_connect
+		(at 60.325 325.755)
+		(uuid "fe89c05c-b90b-4c10-b927-f3aada1a9090")
 	)
 	(wire
 		(pts
@@ -11696,6 +11810,16 @@
 			(type default)
 		)
 		(uuid "049f2784-ac33-4994-8903-40fb3d3f7be4")
+	)
+	(wire
+		(pts
+			(xy 22.86 41.91) (xy 25.4 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04f1e18e-1b7d-4455-b22e-37fd34d06f42")
 	)
 	(wire
 		(pts
@@ -12438,6 +12562,16 @@
 			(type default)
 		)
 		(uuid "22cd9a2b-5171-40eb-bcb1-1a30eaa54abc")
+	)
+	(wire
+		(pts
+			(xy 22.86 36.83) (xy 25.4 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2323a914-b74a-4327-b171-90efd7632e9a")
 	)
 	(polyline
 		(pts
@@ -14273,7 +14407,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 38.1) (xy 25.4 34.29)
+			(xy 25.4 36.83) (xy 25.4 34.29)
 		)
 		(stroke
 			(width 0)
@@ -14562,16 +14696,6 @@
 			(type default)
 		)
 		(uuid "6cf1d7b0-2b67-4767-ad8f-220035ac324d")
-	)
-	(wire
-		(pts
-			(xy 25.4 40.64) (xy 24.13 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cf3d2db-0c5d-42c4-97de-fb7c0b18b4e8")
 	)
 	(wire
 		(pts
@@ -17668,16 +17792,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 38.1) (xy 24.13 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e810f149-0461-48d3-949a-ce3831a876d8")
-	)
-	(wire
-		(pts
 			(xy 384.175 135.89) (xy 384.175 133.985)
 		)
 		(stroke
@@ -17718,7 +17832,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 40.64) (xy 25.4 95.885)
+			(xy 25.4 41.91) (xy 25.4 95.885)
 		)
 		(stroke
 			(width 0)
@@ -18540,7 +18654,7 @@
 	)
 	(text "  HV DC in"
 		(exclude_from_sim no)
-		(at 13.335 35.56 0)
+		(at 13.97 33.02 0)
 		(effects
 			(font
 				(size 1 1)
@@ -18606,7 +18720,7 @@
 	)
 	(text "-"
 		(exclude_from_sim no)
-		(at 15.24 41.91 0)
+		(at 26.035 42.545 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18785,6 +18899,16 @@
 			)
 		)
 		(uuid "5187ff32-a528-4871-9196-e8b4edd2bb8b")
+	)
+	(text "Crimp for molex micofit"
+		(exclude_from_sim no)
+		(at 332.74 245.745 0)
+		(effects
+			(font
+				(size 0.8 0.8)
+			)
+		)
+		(uuid "536fa534-857f-40a7-8265-820d10475f1a")
 	)
 	(text "OVP"
 		(exclude_from_sim no)
@@ -19248,16 +19372,6 @@
 		)
 		(uuid "b1de4cd1-bb61-4701-8b12-12ef23731578")
 	)
-	(text "Note: R75 is currently not on the PCB \nand must be soldered on top of R31. "
-		(exclude_from_sim no)
-		(at 92.075 278.13 0)
-		(effects
-			(font
-				(size 0.6 0.6)
-			)
-		)
-		(uuid "b672708f-3a2d-4f27-a959-3abaea4a3300")
-	)
 	(text "Test points LV"
 		(exclude_from_sim no)
 		(at 300.482 182.499 0)
@@ -19291,7 +19405,7 @@
 	)
 	(text "Additional parts which are not mounted on the PCB \n(but inclued in the BOM)"
 		(exclude_from_sim no)
-		(at 370.713 183.261 0)
+		(at 370.84 183.515 0)
 		(effects
 			(font
 				(size 1 1)
@@ -19333,6 +19447,16 @@
 			(justify left bottom)
 		)
 		(uuid "cc0dd12a-5b99-4b0d-aaba-deb44a8f361b")
+	)
+	(text "Crimp for molex micofit"
+		(exclude_from_sim no)
+		(at 382.905 245.745 0)
+		(effects
+			(font
+				(size 0.8 0.8)
+			)
+		)
+		(uuid "cc70ead5-fb6c-4be7-8fe6-f0232dbe8b57")
 	)
 	(text "Startup Supply"
 		(exclude_from_sim no)
@@ -19402,7 +19526,7 @@
 	)
 	(text "+"
 		(exclude_from_sim no)
-		(at 15.24 39.37 0)
+		(at 26.035 37.465 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19837,7 +19961,7 @@
 	)
 	(global_label "+HV_in"
 		(shape input)
-		(at 24.13 38.1 90)
+		(at 22.86 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19847,7 +19971,7 @@
 		)
 		(uuid "84b10c43-4667-4c39-9e5c-697d5cd45d1f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.0988 34.5071 90)
+			(at 22.8288 33.2371 90)
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -19903,7 +20027,7 @@
 	)
 	(global_label "-HV_in"
 		(shape input)
-		(at 24.13 40.64 270)
+		(at 22.86 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19913,7 +20037,7 @@
 		)
 		(uuid "c16ca9bd-00c5-4e26-8675-796f5ac61df5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.0988 44.2329 90)
+			(at 22.8288 45.5029 90)
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -20011,7 +20135,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 96.52 57.785 0)
 			(effects
 				(font
@@ -20070,13 +20194,12 @@
 				)
 			)
 		)
-		(property "Value" "TBA 1-1212HI"
+		(property "Value" "RP-1515S"
 			(at 50.8 62.865 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "DCDC-Footprints:Converter_DCDC_TRACO_TBA 1-1212HI-3kV-iso"
@@ -20088,7 +20211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/TRACO-Power/TBA-1-1212HI?qs=byeeYqUIh0N5pnK9BA%252B2og%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/RECOM-Power/RP-1515S?qs=8OBu2JtKQqqZy6hEc5gvsA%3D%3D"
 			(at 50.8 66.04 0)
 			(effects
 				(font
@@ -20097,7 +20220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PEME1-S12-S12-S has lower current consumption but is out of stock"
+		(property "Description" ""
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -20106,7 +20229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TBA 1-1212HI"
+		(property "Manufacturer_Part_Number" "RP-1515S"
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -20124,7 +20247,7 @@
 				(hide yes)
 			)
 		)
-		(property "comment" "If not available, use PD01S1212A https://www.mouser.de/ProductDetail/Delta-Electronics/PD01S1212A?qs=%2FW4LtXOBxKsNNDIpmtt%2FbQ%3D%3D "
+		(property "comment" ""
 			(at 50.8 53.34 0)
 			(effects
 				(font
@@ -20372,7 +20495,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 91.44 157.48 0)
 			(effects
 				(font
@@ -20484,7 +20607,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 18.415 209.55 0)
 			(effects
 				(font
@@ -20599,7 +20722,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 347.345 23.495 0)
 			(effects
 				(font
@@ -20713,7 +20836,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 118.745 252.73 0)
 			(effects
 				(font
@@ -20835,7 +20958,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 172.72 147.32 0)
 			(effects
 				(font
@@ -20947,7 +21070,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 327.025 142.875 0)
 			(effects
 				(font
@@ -21062,7 +21185,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 186.69 214.63 0)
 			(effects
 				(font
@@ -21177,6 +21300,15 @@
 				(hide yes)
 			)
 		)
+		(property "ignore for iBOM PCBA" "1"
+			(at 89.535 271.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ddcee48-c3a8-4d47-b98a-cca601f39bcb")
 		)
@@ -21280,7 +21412,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 320.04 142.875 0)
 			(effects
 				(font
@@ -21395,7 +21527,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 280.035 32.385 0)
 			(effects
 				(font
@@ -21511,7 +21643,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 96.52 57.785 0)
 			(effects
 				(font
@@ -21864,7 +21996,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 50.8 262.89 0)
 			(effects
 				(font
@@ -21996,7 +22128,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 225.425 38.735 0)
 			(effects
 				(font
@@ -22176,7 +22308,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 170.18 57.785 0)
 			(effects
 				(font
@@ -22290,7 +22422,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 152.4 157.48 0)
 			(effects
 				(font
@@ -22402,7 +22534,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 154.94 57.785 0)
 			(effects
 				(font
@@ -22597,7 +22729,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 372.745 46.99 0)
 			(effects
 				(font
@@ -22641,7 +22773,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 357.378 242.57 180)
+		(at 357.505 242.57 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22649,7 +22781,7 @@
 		(dnp no)
 		(uuid "246647fa-8890-471b-8150-60ae3586672f")
 		(property "Reference" "J3.1"
-			(at 359.537 237.2868 0)
+			(at 359.664 237.2868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22658,7 +22790,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 355.346 240.0554 0)
+			(at 355.473 240.0554 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22668,7 +22800,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22677,7 +22809,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43645-0200?qs=4XSMV6Twtb2TZ7elJDViLw%3D%3D"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22686,15 +22818,15 @@
 			)
 		)
 		(property "Description" "Receptacle Housing"
-			(at 357.378 245.364 0)
+			(at 357.505 245.364 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.8 0.8)
 				)
 			)
 		)
 		(property "Manufacturer_Part_Number" "43645-0200"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22703,7 +22835,7 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22712,7 +22844,7 @@
 			)
 		)
 		(property "comment" "Receptacle Housing"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22721,7 +22853,7 @@
 			)
 		)
 		(property "Source" "Mouser"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22730,7 +22862,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 357.378 242.57 0)
+			(at 357.505 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22841,7 +22973,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 121.92 82.55 0)
 			(effects
 				(font
@@ -22956,7 +23088,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 109.855 201.93 0)
 			(effects
 				(font
@@ -23074,7 +23206,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 294.64 89.535 0)
 			(effects
 				(font
@@ -23194,7 +23326,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 334.645 46.99 0)
 			(effects
 				(font
@@ -23232,6 +23364,132 @@
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U14")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samacsys:43650-0315")
+		(at 25.4 36.83 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2aad4416-f2c5-49fd-a646-b2795be924f7")
+		(property "Reference" "J1"
+			(at 20.32 46.3549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "43650-0315"
+			(at 8.255 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Samacsys:43650-03YY_151617"
+			(at 8.89 131.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43650-0315?qs=Nb99Pa9xYq%2FPpvf19i2uYA%3D%3D"
+			(at 8.89 231.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Single Row, 3 Circuits, with PCB Polarizing Peg, Glow-Wire Capable, Black"
+			(at 25.4 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "9.9"
+			(at 8.89 431.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "538-43650-0315"
+			(at 8.89 531.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/43650-0315?qs=Nb99Pa9xYq%2FPpvf19i2uYA%3D%3D"
+			(at 8.89 631.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Molex"
+			(at 8.89 731.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43650-0315"
+			(at 8.89 831.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "8369c067-7f37-4f37-aed1-66c343ecb8a6")
+		)
+		(pin "1"
+			(uuid "375b37fc-6d74-40ad-9284-820f568d5b69")
+		)
+		(pin "2"
+			(uuid "7dc05164-f8f7-42df-9961-d69be2de460e")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J1")
+					(unit 1)
 				)
 			)
 		)
@@ -23324,7 +23582,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 54.61 252.73 0)
 			(effects
 				(font
@@ -23438,7 +23696,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 140.97 44.45 0)
 			(effects
 				(font
@@ -23730,7 +23988,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 320.04 78.105 0)
 			(effects
 				(font
@@ -23845,7 +24103,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 78.74 209.55 0)
 			(effects
 				(font
@@ -24026,7 +24284,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 98.425 212.09 0)
 			(effects
 				(font
@@ -24140,7 +24398,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 113.03 157.48 0)
 			(effects
 				(font
@@ -24364,7 +24622,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 347.98 125.73 0)
 			(effects
 				(font
@@ -24730,7 +24988,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 32.385 220.345 0)
 			(effects
 				(font
@@ -24844,7 +25102,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 93.98 271.145 0)
 			(effects
 				(font
@@ -25105,7 +25363,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 366.395 133.35 0)
 			(effects
 				(font
@@ -25219,7 +25477,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -25331,7 +25589,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 384.175 138.43 0)
 			(effects
 				(font
@@ -25533,7 +25791,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 285.115 133.35 0)
 			(effects
 				(font
@@ -25710,7 +25968,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 50.8 262.89 0)
 			(effects
 				(font
@@ -25860,7 +26118,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 281.305 133.35 0)
 			(effects
 				(font
@@ -25983,7 +26241,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 250.825 73.025 0)
 			(effects
 				(font
@@ -26097,7 +26355,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 27.94 125.73 0)
 			(effects
 				(font
@@ -26325,7 +26583,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 144.78 157.48 0)
 			(effects
 				(font
@@ -26636,7 +26894,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 113.03 132.08 0)
 			(effects
 				(font
@@ -26768,7 +27026,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 288.925 133.35 0)
 			(effects
 				(font
@@ -27079,7 +27337,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 320.04 130.81 0)
 			(effects
 				(font
@@ -27486,7 +27744,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 92.71 220.345 0)
 			(effects
 				(font
@@ -27731,7 +27989,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 236.855 219.71 0)
 			(effects
 				(font
@@ -27846,7 +28104,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 22.86 209.55 0)
 			(effects
 				(font
@@ -27958,7 +28216,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 307.975 138.43 0)
 			(effects
 				(font
@@ -28073,7 +28331,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 177.8 218.44 0)
 			(effects
 				(font
@@ -28250,7 +28508,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 154.94 147.32 0)
 			(effects
 				(font
@@ -28364,7 +28622,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 116.84 82.55 0)
 			(effects
 				(font
@@ -28478,7 +28736,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 229.235 73.025 0)
 			(effects
 				(font
@@ -28590,7 +28848,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 88.265 209.55 0)
 			(effects
 				(font
@@ -28705,7 +28963,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 212.725 214.63 0)
 			(effects
 				(font
@@ -28887,7 +29145,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 41.91 271.145 0)
 			(effects
 				(font
@@ -28906,6 +29164,80 @@
 			(project "DCDCv9-3"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 330.835 242.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "54b09f93-96f9-4a60-acc6-9549e553f3be")
+		(property "Reference" "J1.4"
+			(at 327.914 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 331.47 239.522 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "~"
+			(at 330.835 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43030-0039?qs=Cb2nCFKsA8oKBWEd0s1rng%3D%3D"
+			(at 330.835 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Crimp for molex micofit receptacle housing, 8.5 A"
+			(at 330.835 248.158 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43030-0039"
+			(at 330.835 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cc7551e-e0a3-46de-a62f-757eae7cb524")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J1.4")
 					(unit 1)
 				)
 			)
@@ -29002,7 +29334,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 280.035 22.86 0)
 			(effects
 				(font
@@ -29116,7 +29448,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 337.185 160.02 0)
 			(effects
 				(font
@@ -29201,119 +29533,6 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR0126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 19.05 40.64 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59944fda-15db-40af-8f88-266b7741aa5d")
-		(property "Reference" "J1"
-			(at 19.05 43.942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 16.002 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:TerminalBlock_TE-282817-2_1x03_P5.00mm_90 Degrees updated v9-3"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/691416600002?qs=sPbYRqrBIVmnqvpcTPGD%252Bw%3D%3D"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "691416600002 "
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" "Do not install if clip-on installation is used. Use J6 and J7 instead"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for PCBA" "1"
-			(at 19.05 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "354e7631-131a-4e03-8aa7-a2019619d173")
-		)
-		(pin "2"
-			(uuid "f1dcf744-aee8-455e-8029-5afeeb229738")
-		)
-		(instances
-			(project "DC-DC v9"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -29410,7 +29629,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 98.425 221.615 0)
 			(effects
 				(font
@@ -29524,7 +29743,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 372.745 133.35 0)
 			(effects
 				(font
@@ -29704,7 +29923,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 103.505 199.39 0)
 			(effects
 				(font
@@ -29730,7 +29949,7 @@
 	)
 	(symbol
 		(lib_id "Motor:Fan")
-		(at 385.318 226.568 0)
+		(at 385.445 226.695 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29739,7 +29958,7 @@
 		(fields_autoplaced yes)
 		(uuid "631dab2c-a3ef-465f-b638-d84928851a1c")
 		(property "Reference" "M1"
-			(at 390.144 225.2979 0)
+			(at 390.271 225.4249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29748,7 +29967,7 @@
 			)
 		)
 		(property "Value" "Fan"
-			(at 390.144 227.8379 0)
+			(at 390.271 227.9649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29757,7 +29976,7 @@
 			)
 		)
 		(property "Footprint" "DCDC-Footprints:PinHeader_1x02_P2.54mm_Vertical"
-			(at 385.318 226.314 0)
+			(at 385.445 226.441 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29766,7 +29985,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.amazon.de/gp/product/B071JN6HKM/"
-			(at 385.318 226.314 0)
+			(at 385.445 226.441 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29775,7 +29994,7 @@
 			)
 		)
 		(property "Description" "Fan"
-			(at 385.318 226.568 0)
+			(at 385.445 226.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29784,7 +30003,7 @@
 			)
 		)
 		(property "Source" "Amazon"
-			(at 385.318 226.568 0)
+			(at 385.445 226.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29793,7 +30012,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
-			(at 385.318 226.568 0)
+			(at 385.445 226.695 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30147,7 +30366,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 320.04 32.385 0)
 			(effects
 				(font
@@ -30261,7 +30480,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 105.41 149.86 0)
 			(effects
 				(font
@@ -30786,7 +31005,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -30805,6 +31024,80 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 330.835 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "76c04d67-084b-4fc2-9756-c1ad0f80c564")
+		(property "Reference" "J1.2"
+			(at 327.914 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 331.47 234.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "~"
+			(at 330.835 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43030-0039?qs=Cb2nCFKsA8oKBWEd0s1rng%3D%3D"
+			(at 330.835 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Crimp for molex micofit receptacle housing, 8.5 A"
+			(at 330.835 248.793 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43030-0039"
+			(at 330.835 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc640259-7259-4e62-a90c-3d2ec9d82995")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J1.2")
 					(unit 1)
 				)
 			)
@@ -30901,7 +31194,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 168.275 219.71 0)
 			(effects
 				(font
@@ -31015,7 +31308,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 144.78 33.02 0)
 			(effects
 				(font
@@ -31192,7 +31485,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 35.56 254.635 0)
 			(effects
 				(font
@@ -31219,7 +31512,7 @@
 	(symbol
 		(lib_name "Thermistor_PTC_2")
 		(lib_id "Device:Thermistor_PTC")
-		(at 359.283 211.455 0)
+		(at 359.41 211.455 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31227,7 +31520,7 @@
 		(dnp no)
 		(uuid "7a02bc1d-a980-4fa6-815a-a505e08ddc0c")
 		(property "Reference" "TH1"
-			(at 352.298 210.5024 0)
+			(at 352.425 210.5024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31236,7 +31529,7 @@
 			)
 		)
 		(property "Value" "3.9k PTC (read build guide!)"
-			(at 350.52 216.5984 0)
+			(at 350.647 216.5984 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -31245,7 +31538,7 @@
 			)
 		)
 		(property "Footprint" "DCDC-Footprints:PinHeader_1x02_P2.54mm_Vertical"
-			(at 360.553 216.535 0)
+			(at 360.68 216.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31255,7 +31548,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/ProductDetail/Vishay-Dale/TFPTL15L3901FL2B?qs=EYbNv5wfoHs1U3qiZRAw9A%3D%3D"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31264,7 +31557,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31273,7 +31566,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TFPTL15L3901FL2B"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31282,7 +31575,7 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31291,7 +31584,7 @@
 			)
 		)
 		(property "comment" "if disconnected, fan will be on permanently (can be a desired feature), mount according to build guide"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31300,7 +31593,7 @@
 			)
 		)
 		(property "Source" "Mouser"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31309,7 +31602,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 359.283 211.455 0)
+			(at 359.41 211.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31422,7 +31715,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 327.025 130.81 0)
 			(effects
 				(font
@@ -31536,7 +31829,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 121.92 132.08 0)
 			(effects
 				(font
@@ -31633,7 +31926,7 @@
 				(hide yes)
 			)
 		)
-		(property "comment" "set dead time, R3 can be used for a fixed value. Should be set at highest input voltage and no load."
+		(property "comment" "set dead time, R3 can be used for a fixed value. Read Build guide chapter 8.9 for the correct setting."
 			(at 247.015 73.025 0)
 			(effects
 				(font
@@ -31803,7 +32096,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 201.295 151.13 0)
 			(effects
 				(font
@@ -31918,7 +32211,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 337.185 133.35 0)
 			(effects
 				(font
@@ -32033,7 +32326,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 177.8 209.55 0)
 			(effects
 				(font
@@ -32268,7 +32561,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 193.04 214.63 0)
 			(effects
 				(font
@@ -32382,7 +32675,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 254.635 88.265 0)
 			(effects
 				(font
@@ -32496,7 +32789,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 52.07 142.24 0)
 			(effects
 				(font
@@ -32522,7 +32815,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_45deg")
-		(at 385.826 199.39 0)
+		(at 386.08 199.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32530,7 +32823,7 @@
 		(dnp no)
 		(uuid "84a90d3b-4496-4d59-8872-ceffe67a54b0")
 		(property "Reference" "T1.5"
-			(at 392.684 188.468 0)
+			(at 392.938 188.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32538,7 +32831,7 @@
 			)
 		)
 		(property "Value" "165 mm 600 x 0,071 mm HF litz wire (inner Sec)"
-			(at 385.826 206.502 0)
+			(at 386.08 206.502 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -32546,7 +32839,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 385.826 197.612 0)
+			(at 386.08 197.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32555,7 +32848,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ebay.de/itm/304154052959?_skw=hf+litze&itmmeta=01J9STH5QCVFSQVBEJX5R17A6A&hash=item46d0fe895f%3Ag%3Ax2MAAOSw4XlhSI3I&var=604128480922"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32564,7 +32857,7 @@
 			)
 		)
 		(property "Description" "Inductor, rotated by 45°"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32573,7 +32866,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "120 x 0.1 mm"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32582,7 +32875,7 @@
 			)
 		)
 		(property "Source" "Ebay"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32591,7 +32884,7 @@
 			)
 		)
 		(property "comment" "HF litz wire"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32600,7 +32893,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 385.826 199.39 0)
+			(at 386.08 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32633,7 +32926,7 @@
 		(dnp no)
 		(uuid "85bc90b3-52ae-4ea3-92e7-52db989079bc")
 		(property "Reference" "R48"
-			(at 71.628 81.6415 0)
+			(at 70.993 81.6415 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32642,7 +32935,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 70.993 83.7816 0)
+			(at 70.358 83.7816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32713,7 +33006,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -32958,7 +33251,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 327.66 82.55 0)
 			(effects
 				(font
@@ -33182,7 +33475,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 388.62 138.43 0)
 			(effects
 				(font
@@ -33294,7 +33587,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 254.635 24.765 0)
 			(effects
 				(font
@@ -33408,7 +33701,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 354.965 144.78 0)
 			(effects
 				(font
@@ -33520,7 +33813,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 362.585 153.67 0)
 			(effects
 				(font
@@ -33579,7 +33872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/35044-9102?qs=ZlMU7IUseCu3dWv7JcWPgw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43030-0039?qs=Cb2nCFKsA8oKBWEd0s1rng%3D%3D"
 			(at 382.27 240.03 0)
 			(effects
 				(font
@@ -33588,15 +33881,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crimp for molex micofit receptacle housing"
+		(property "Description" "Crimp for molex micofit receptacle housing, 8.5 A"
 			(at 382.27 245.618 0)
 			(effects
 				(font
-					(size 0.6 0.6)
+					(size 0.8 0.8)
 				)
+				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "35044-9102"
+		(property "Manufacturer_Part_Number" "43030-0039"
 			(at 382.27 240.03 0)
 			(effects
 				(font
@@ -33707,7 +34001,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 27.305 254.635 0)
 			(effects
 				(font
@@ -33837,7 +34131,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 182.88 147.32 0)
 			(effects
 				(font
@@ -33952,7 +34246,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 358.14 88.265 0)
 			(effects
 				(font
@@ -34066,7 +34360,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 121.92 157.48 0)
 			(effects
 				(font
@@ -34181,7 +34475,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 374.65 36.83 0)
 			(effects
 				(font
@@ -34295,7 +34589,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 154.94 39.37 0)
 			(effects
 				(font
@@ -34321,7 +34615,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 382.27 242.316 0)
+		(at 382.27 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34329,7 +34623,7 @@
 		(dnp no)
 		(uuid "8d690c8b-0ff2-4ecc-878e-3c6cb7191085")
 		(property "Reference" "J3.3"
-			(at 379.349 242.316 0)
+			(at 379.349 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34337,7 +34631,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 382.905 239.268 0)
+			(at 382.905 239.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34346,7 +34640,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 382.27 242.316 0)
+			(at 382.27 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34354,8 +34648,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/35044-9102?qs=ZlMU7IUseCu3dWv7JcWPgw%3D%3D"
-			(at 382.27 242.316 0)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43030-0039?qs=Cb2nCFKsA8oKBWEd0s1rng%3D%3D"
+			(at 382.27 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34363,8 +34657,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crimp for molex micofit receptacle housing"
-			(at 382.27 242.316 0)
+		(property "Description" "Crimp for molex micofit receptacle housing, 8.5 A"
+			(at 382.27 242.57 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -34372,8 +34666,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "35044-9102"
-			(at 382.27 242.316 0)
+		(property "Manufacturer_Part_Number" "43030-0039"
+			(at 382.27 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34481,7 +34775,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 339.725 46.99 0)
 			(effects
 				(font
@@ -34613,7 +34907,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 165.1 82.55 0)
 			(effects
 				(font
@@ -34707,7 +35001,7 @@
 				(hide yes)
 			)
 		)
-		(property "comment" "see Documentation chapter \"Transformer\""
+		(property "comment" "Read Build guide chapter 5 for more info."
 			(at 217.17 134.62 0)
 			(effects
 				(font
@@ -35203,7 +35497,7 @@
 				(hide yes)
 			)
 		)
-		(property "comment" "used to set minimum switching freqeuncy, should be adjusted to around 2-5 kHz above no-load resonant freqeuncy"
+		(property "comment" "Used to set minimum switching frequency. Read Build guide chapter 8.8 for the correct setting."
 			(at 239.395 73.025 0)
 			(effects
 				(font
@@ -35234,6 +35528,131 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samacsys:43650-0315")
+		(at 320.04 237.49 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "96c69647-88a0-4989-9c38-98854b948577")
+		(property "Reference" "J1.1"
+			(at 315.595 233.0449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "43645-0300"
+			(at 302.895 241.2999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.53 332.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43645-0300?qs=W6FIH8d5%2F%2F06ciSdVM35nA%3D%3D"
+			(at 303.53 432.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Receptacle Housing"
+			(at 314.96 247.015 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 303.53 632.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "538-43645-0300"
+			(at 303.53 732.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 303.53 832.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Molex"
+			(at 303.53 932.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43645-0300"
+			(at 303.53 1032.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "dd8c3a12-d34c-4d0e-a99d-4b86d0f936a0")
+		)
+		(pin "1"
+			(uuid "9fa171fa-36e0-4cc3-b99e-4e9ede910fee")
+		)
+		(pin "2"
+			(uuid "e05794a0-27ba-4b51-a077-6e628eabc17a")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J1.1")
 					(unit 1)
 				)
 			)
@@ -35461,7 +35880,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 129.54 220.345 0)
 			(effects
 				(font
@@ -35691,7 +36110,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 271.78 82.55 0)
 			(effects
 				(font
@@ -35803,7 +36222,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 114.935 262.89 0)
 			(effects
 				(font
@@ -36049,7 +36468,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 229.235 82.55 0)
 			(effects
 				(font
@@ -36164,7 +36583,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 320.04 87.63 0)
 			(effects
 				(font
@@ -36276,7 +36695,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 91.44 132.08 0)
 			(effects
 				(font
@@ -36551,7 +36970,7 @@
 	)
 	(symbol
 		(lib_id "xt60_male (output):XT60 Male (output)")
-		(at 356.616 225.298 0)
+		(at 356.362 225.044 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36559,7 +36978,7 @@
 		(dnp no)
 		(uuid "a4a56989-1fbf-4bf4-808a-e46b1b7c4fd1")
 		(property "Reference" "J5.1"
-			(at 356.87 222.8849 0)
+			(at 356.616 222.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36568,7 +36987,7 @@
 			)
 		)
 		(property "Value" "XT60 Female (wrong symbol ik)"
-			(at 346.837 230.6319 0)
+			(at 346.583 230.3779 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -36577,7 +36996,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36586,7 +37005,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.amazon.de/RUNCCI%C2%AE-Connector-M%C3%A4nnlich-Weiblich-Rundstecker/dp/B07N1N2C94/"
-			(at 357.886 230.378 0)
+			(at 357.632 230.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36595,7 +37014,7 @@
 			)
 		)
 		(property "Description" "Female"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36604,7 +37023,7 @@
 			)
 		)
 		(property "Qty Order" "1"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36613,7 +37032,7 @@
 			)
 		)
 		(property "comment" "for connecting your LV System to the DCDC"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36622,7 +37041,7 @@
 			)
 		)
 		(property "Source" "Amazon"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36631,7 +37050,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "~"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36640,7 +37059,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 356.616 225.298 0)
+			(at 356.362 225.044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36754,7 +37173,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 160.02 157.48 0)
 			(effects
 				(font
@@ -36868,7 +37287,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 27.94 157.48 0)
 			(effects
 				(font
@@ -36982,7 +37401,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 22.86 254.635 0)
 			(effects
 				(font
@@ -37094,7 +37513,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 366.395 125.73 0)
 			(effects
 				(font
@@ -37276,7 +37695,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 102.235 254.635 0)
 			(effects
 				(font
@@ -37390,7 +37809,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 133.35 82.55 0)
 			(effects
 				(font
@@ -37502,7 +37921,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 72.39 142.24 0)
 			(effects
 				(font
@@ -37659,7 +38078,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 358.14 78.74 0)
 			(effects
 				(font
@@ -37791,7 +38210,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 273.685 133.35 0)
 			(effects
 				(font
@@ -37907,7 +38326,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 366.395 160.02 0)
 			(effects
 				(font
@@ -38022,7 +38441,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 98.425 254.635 0)
 			(effects
 				(font
@@ -38275,7 +38694,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 294.64 186.055 0)
 			(effects
 				(font
@@ -38389,7 +38808,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 102.235 271.145 0)
 			(effects
 				(font
@@ -38699,7 +39118,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 239.395 45.085 0)
 			(effects
 				(font
@@ -38814,7 +39233,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 133.35 220.345 0)
 			(effects
 				(font
@@ -39060,7 +39479,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 133.35 44.45 0)
 			(effects
 				(font
@@ -39175,7 +39594,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 264.795 59.055 0)
 			(effects
 				(font
@@ -39307,7 +39726,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 35.56 271.145 0)
 			(effects
 				(font
@@ -39535,7 +39954,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 254 219.71 0)
 			(effects
 				(font
@@ -39652,7 +40071,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 77.47 33.02 0)
 			(effects
 				(font
@@ -39882,7 +40301,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 314.325 44.45 0)
 			(effects
 				(font
@@ -39994,7 +40413,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 354.965 153.67 0)
 			(effects
 				(font
@@ -40108,7 +40527,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 337.185 152.4 0)
 			(effects
 				(font
@@ -40335,7 +40754,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 315.595 138.43 0)
 			(effects
 				(font
@@ -40450,7 +40869,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 276.86 89.535 0)
 			(effects
 				(font
@@ -40565,7 +40984,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 311.785 138.43 0)
 			(effects
 				(font
@@ -40680,7 +41099,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 347.345 32.385 0)
 			(effects
 				(font
@@ -41127,7 +41546,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 144.78 212.09 0)
 			(effects
 				(font
@@ -41251,7 +41670,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 63.5 204.47 0)
 			(effects
 				(font
@@ -41597,7 +42016,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 105.41 82.55 0)
 			(effects
 				(font
@@ -41711,7 +42130,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 64.77 53.34 0)
 			(effects
 				(font
@@ -42025,7 +42444,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 109.22 57.785 0)
 			(effects
 				(font
@@ -42277,7 +42696,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 277.495 133.35 0)
 			(effects
 				(font
@@ -42391,7 +42810,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 76.2 44.45 0)
 			(effects
 				(font
@@ -42503,7 +42922,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 31.75 271.145 0)
 			(effects
 				(font
@@ -42617,7 +43036,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 78.74 220.345 0)
 			(effects
 				(font
@@ -42732,7 +43151,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 330.835 37.465 0)
 			(effects
 				(font
@@ -42844,7 +43263,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 26.67 220.345 0)
 			(effects
 				(font
@@ -42870,7 +43289,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_45deg")
-		(at 385.826 194.818 0)
+		(at 386.08 194.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42878,7 +43297,7 @@
 		(dnp no)
 		(uuid "e42d4f98-cf8f-486c-976b-4104d135a4e9")
 		(property "Reference" "T1.3"
-			(at 379.476 188.468 0)
+			(at 379.73 188.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42886,7 +43305,7 @@
 			)
 		)
 		(property "Value" "1800 mm 120 x 0.1 mm HF litz wire (Prim)"
-			(at 385.826 203.962 0)
+			(at 386.08 204.089 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -42894,7 +43313,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 385.826 193.04 0)
+			(at 386.08 193.167 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42903,7 +43322,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ebay.de/itm/304154052959?_skw=hf+litze&itmmeta=01J9STH5QCVFSQVBEJX5R17A6A&hash=item46d0fe895f%3Ag%3Ax2MAAOSw4XlhSI3I&var=604128480922"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42912,7 +43331,7 @@
 			)
 		)
 		(property "Description" "Inductor, rotated by 45°"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42921,7 +43340,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "120 x 0.1 mm"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42930,7 +43349,7 @@
 			)
 		)
 		(property "Source" "Ebay"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42939,7 +43358,7 @@
 			)
 		)
 		(property "comment" "HF litz wire"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42948,7 +43367,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 385.826 194.818 0)
+			(at 386.08 194.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43061,7 +43480,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 358.14 32.385 0)
 			(effects
 				(font
@@ -43174,7 +43593,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 297.18 32.385 0)
 			(effects
 				(font
@@ -43289,7 +43708,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 308.61 32.385 0)
 			(effects
 				(font
@@ -43553,7 +43972,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 162.56 204.47 0)
 			(effects
 				(font
@@ -43572,6 +43991,80 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 330.835 240.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "f5f32574-bacc-4199-bd25-36dd6c8d223b")
+		(property "Reference" "J1.3"
+			(at 327.914 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 331.47 236.982 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "~"
+			(at 330.835 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Molex/43030-0039?qs=Cb2nCFKsA8oKBWEd0s1rng%3D%3D"
+			(at 330.835 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Crimp for molex micofit receptacle housing, 8.5 A"
+			(at 330.835 245.618 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "43030-0039"
+			(at 330.835 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d2b7b5b-c0cc-4cae-87d9-2a0264a778a9")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J1.3")
 					(unit 1)
 				)
 			)
@@ -43667,7 +44160,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 27.94 142.24 0)
 			(effects
 				(font
@@ -43783,7 +44276,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 357.505 125.73 0)
 			(effects
 				(font
@@ -43902,7 +44395,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 109.855 190.5 0)
 			(effects
 				(font
@@ -44384,7 +44877,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 294.64 196.85 0)
 			(effects
 				(font
@@ -44498,7 +44991,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 168.275 209.55 0)
 			(effects
 				(font
@@ -44524,7 +45017,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_45deg")
-		(at 385.826 196.85 0)
+		(at 386.08 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -44532,7 +45025,7 @@
 		(dnp no)
 		(uuid "fdab183c-90b7-4834-b92f-4bb53dbeeda3")
 		(property "Reference" "T1.4"
-			(at 385.826 188.468 0)
+			(at 386.08 188.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44540,7 +45033,7 @@
 			)
 		)
 		(property "Value" "165 mm 600 x 0,071 mm HF litz wire (inner Sec)"
-			(at 385.826 205.232 0)
+			(at 386.08 205.232 0)
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -44548,7 +45041,7 @@
 			)
 		)
 		(property "Footprint" "~"
-			(at 385.826 195.072 0)
+			(at 386.08 195.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44557,7 +45050,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ebay.de/itm/304154052959?_skw=hf+litze&itmmeta=01J9STH5QCVFSQVBEJX5R17A6A&hash=item46d0fe895f%3Ag%3Ax2MAAOSw4XlhSI3I&var=604128480922"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44566,7 +45059,7 @@
 			)
 		)
 		(property "Description" "Inductor, rotated by 45°"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44575,7 +45068,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "120 x 0.1 mm"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44584,7 +45077,7 @@
 			)
 		)
 		(property "Source" "Ebay"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44593,7 +45086,7 @@
 			)
 		)
 		(property "comment" "HF litz wire"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44602,7 +45095,7 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
-			(at 385.826 196.85 0)
+			(at 386.08 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44715,7 +45208,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 144.78 82.55 0)
 			(effects
 				(font
@@ -44952,7 +45445,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 225.425 48.26 0)
 			(effects
 				(font

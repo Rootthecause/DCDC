@@ -6714,7 +6714,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 40.64 111.125 0)
 			(effects
 				(font
@@ -6828,7 +6828,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 107.315 68.58 0)
 			(effects
 				(font
@@ -7075,7 +7075,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 90.805 129.54 0)
 			(effects
 				(font
@@ -7187,7 +7187,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 59.055 104.14 0)
 			(effects
 				(font
@@ -7301,7 +7301,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 40.64 61.595 0)
 			(effects
 				(font
@@ -7425,7 +7425,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 112.395 118.745 0)
 			(effects
 				(font
@@ -7546,7 +7546,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.79 53.975 0)
 			(effects
 				(font
@@ -7787,7 +7787,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 40.64 72.39 0)
 			(effects
 				(font
@@ -7901,7 +7901,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 40.64 122.555 0)
 			(effects
 				(font
@@ -8015,7 +8015,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -8127,7 +8127,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 59.055 53.975 0)
 			(effects
 				(font
@@ -8384,7 +8384,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 112.395 68.58 0)
 			(effects
 				(font
@@ -8493,7 +8493,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 118.745 135.255 0)
 			(effects
 				(font
@@ -8605,7 +8605,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.79 59.69 0)
 			(effects
 				(font
@@ -8719,7 +8719,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 107.315 118.745 0)
 			(effects
 				(font
@@ -8868,7 +8868,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 133.35 81.28 0)
 			(effects
 				(font
@@ -9078,7 +9078,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 110.49 135.255 0)
 			(effects
 				(font
@@ -9189,7 +9189,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 53.975 129.54 0)
 			(effects
 				(font
@@ -9313,7 +9313,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 110.49 85.725 0)
 			(effects
 				(font
@@ -9459,7 +9459,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 133.35 130.81 0)
 			(effects
 				(font
@@ -9594,7 +9594,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 59.055 79.375 0)
 			(effects
 				(font
@@ -9706,7 +9706,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.155 109.22 0)
 			(effects
 				(font
@@ -9818,7 +9818,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 118.745 85.725 0)
 			(effects
 				(font
@@ -9932,7 +9932,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.155 128.27 0)
 			(effects
 				(font
@@ -10056,7 +10056,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 97.155 103.505 0)
 			(effects
 				(font
@@ -10167,7 +10167,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 53.975 79.375 0)
 			(effects
 				(font
@@ -10281,7 +10281,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 59.055 129.54 0)
 			(effects
 				(font
@@ -10460,7 +10460,7 @@
 				(hide yes)
 			)
 		)
-		(property "ignore for iBOM" "1"
+		(property "ignore for iBOM PCBA" "1"
 			(at 90.805 81.915 0)
 			(effects
 				(font

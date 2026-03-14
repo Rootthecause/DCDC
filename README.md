@@ -8,7 +8,7 @@
 Dear Formula Student Teams,
 
 I've designed a High Voltage DC/DC Converter to replace our LV Battery. Feel free to use it as well!<br>
-Although this design (and previous versions) have passed two times FSG scrutineering and have been operating without any issues for over 6 months*, <strong>always manufacture at your own risk!</strong><br>
+Although this design (and previous versions) have passed two times FSG scrutineering and have been operating without any issues for over 6 months, <strong>always manufacture at your own risk!</strong><br>
 If you encountered any bugs or have suggestions for improvement, please use the GitHub [issues form](https://github.com/Rootthecause/DCDC/issues/new). For discussions and technical questions, kindly use the [discussion bord](https://github.com/Rootthecause/DCDC/discussions).<br>
 
 This design is published as open-source hardware under the CERN-OHL-W license and can be found on GitHub: https://github.com/Rootthecause/DCDC<br>
@@ -19,24 +19,26 @@ Have fun! Do not lick things with spark symbols on :)
 Best regards,
 Rootthecause / Liv 
 
+March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 <br>
 
 # Updates
 |Date | Description |
 |:---------------------:|:------|
+|March 14, 2026| Release of the v9-3r1.4 update. Fixes many smaller issues and probably issue #10. See [releases](https://github.com/Rootthecause/DCDC/releases) for more details.|
 |January 29, 2026| First public v10 schematic, see [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15634156), also contains a timeline and small v9-3 update|
 |January 4, 2026| New year's update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15400450) |
 |November 30, 2025| Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15114408), added [![Discord](https://img.shields.io/badge/Discord_Server-7289da)](https://discord.gg/3PkHGpJvR4) for faster communication.|
 |September 15, 2025| **IMPORTANT NOTICE**: There was a complaint about the converter not being rules conform. Due to other personal priorities it might take some weeks to solve the addressed points. There is also the chance of some points unable to be resolved for the Version 9-3r. See [issue#10](https://github.com/Rootthecause/DCDC/issues/10) for further details.|
 | August 6, 2025 | Announcing the v10 development - ideas welcome! Read more [here](https://github.com/Rootthecause/DCDC/discussions/9). DCDCv10 [survey](https://forms.gle/ou8AZbYJj4cU9K3A8).|
-| July 18, 2025 | *bad F_min setting lead to repeatable FET destruction, please re-read the Build Guide Pages 35/36 if you've set up your replica before this change. See [issue#8](https://github.com/Rootthecause/DCDC/issues/8) |
+| July 18, 2025 | A bad F_min setting lead to repeatable FET destruction, please re-read the Build Guide Pages 35/36 if you've set up your replica before this change. See [issue#8](https://github.com/Rootthecause/DCDC/issues/8) |
 <br>
 
 # Important documents
 |File | | |
 |:---------------------:|:--------------:|:------:|
-| Documentation [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_GER.pdf)|
-| Build Guide [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_GER.pdf)|
+| Documentation [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Documentation_DCDCv9-3r_GER.pdf) [Discontinued*]|
+| Build Guide [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_EN.pdf)| [GERMAN](https://github.com/Rootthecause/DCDC/blob/main/documentation/Build_Guide_DCDCv9-3r_GER.pdf) [Discontinued*]|
 | Data sheet [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/Datasheet_DCDCv9-3.pdf)|-|
 | KiCAD Files| [ENGLISH](https://github.com/Rootthecause/DCDC/tree/main/kicad)|-|
 | Schematic [PDF] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/kicad/DCDCv9-3.pdf) |-|
@@ -44,11 +46,12 @@ Rootthecause / Liv
 | Measurements Table [xlsx] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/DCDCv9-3_Table.xlsx) |-|
 | Scrutineering Support Presentation [PPTX] | [ENGLISH](https://github.com/Rootthecause/DCDC/blob/main/documentation/scrutineering_support_files/DCDCv9-3_Scrutineering_Support_Presentation.pptx)|-|
 
+*will not be updated after the DCDCv9-3r1.4 release (March 14, 2026).
 
 <br>
 
 # Build Notes v9-3
-Please read [here](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md) for build errors of a v9-3 replica.
+For recent updates on building a v9-3 replica, please read [here](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md).
 
 # Note for PCB-Orders
 **Always check the latest release before ordering!**
@@ -133,8 +136,9 @@ a converter with PCB transformer in the MHz range might also be possible.
 *Last updated: May 9, 2025*
 
 - At least 4 Formula Student teams are replicating the DCDCv9-3r in 2025  
-- At least 1 team has successfully built and tested the DCDCv9-3r:  
-  - TU Graz Racing, Austria 
+- At least 2 teams have successfully built and tested the DCDCv9-3r:  
+  - TU Graz Racing, Austria
+  - Anonymous team, Germany
 
 <br>
 

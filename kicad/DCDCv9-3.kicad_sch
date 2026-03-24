@@ -38244,7 +38244,7 @@
 		(dnp no)
 		(uuid "b147642e-2232-41ed-9003-4c2cd1dd88e8")
 		(property "Reference" "U7"
-			(at 366.903 156.7434 90)
+			(at 363.093 158.6484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38252,8 +38252,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TL431"
-			(at 368.173 157.607 0)
+		(property "Value" "TL431BCDBZR"
+			(at 368.808 155.702 0)
 			(effects
 				(font
 					(size 0.8 0.8)

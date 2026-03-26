@@ -25,6 +25,7 @@ March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 # Updates
 |Date | Description |
 |:---------------------:|:------|
+|March 26, 2026 | Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-16319278) currently being slowed down due to transformer issues |
 |March 14, 2026| Release of the v9-3r1.4 update. Fixes many smaller issues and probably issue #10. See [releases](https://github.com/Rootthecause/DCDC/releases) for more details.|
 |January 29, 2026| First public v10 schematic, see [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15634156), also contains a timeline and small v9-3 update|
 |January 4, 2026| New year's update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15400450) |

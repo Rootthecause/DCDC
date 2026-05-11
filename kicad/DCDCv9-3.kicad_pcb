@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(date "2025-01-26")
+		(date "2026-05-11")
 	)
 	(layers
 		(0 "F.Cu" mixed)
@@ -6116,7 +6116,7 @@
 				)
 			)
 		)
-		(property "Value" "RP-1515S"
+		(property "Value" "RP-1212S"
 			(at 6.5 6.5 0)
 			(layer "F.Fab")
 			(uuid "0d20ef73-0aa1-41d1-8d57-9144def92f86")
@@ -6140,7 +6140,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/RECOM-Power/RP-1515S?qs=8OBu2JtKQqqZy6hEc5gvsA%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/RECOM-Power/RP-1212S?qs=YWgezujkI1KjTZkjNYMtQA%3D%3D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6166,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RP-1515S"
+		(property "Manufacturer_Part_Number" "RP-1212S"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59515,7 +59515,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TL431"
+		(property "Value" "TL431BCDBZR"
 			(at 0 -2.4 0)
 			(layer "B.Fab")
 			(uuid "d011d455-d634-46cc-a470-8749435ff7b1")

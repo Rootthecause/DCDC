@@ -18630,6 +18630,17 @@
 		)
 		(uuid "1baf2bd0-585c-4658-87a2-58786d7a7ac0")
 	)
+	(text "If the MP4541 is not available, \nuse the MP4581 (1:1 compatible, 100V variant)"
+		(exclude_from_sim no)
+		(at 41.275 224.79 0)
+		(effects
+			(font
+				(size 0.8 0.8)
+			)
+			(justify left bottom)
+		)
+		(uuid "26101c0c-062d-4f14-b759-349ed9188f23")
+	)
 	(text "500mW"
 		(exclude_from_sim no)
 		(at 26.67 124.46 90)

@@ -23,6 +23,8 @@ March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 <br>
 
 # Updates
+### For recent updates on building a v9-3 replica, please read [the v9-3 Build Notes](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md).
+
 |Date | Description |
 |:---------------------:|:------|
 |March 26, 2026 | Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-16319278) currently being slowed down due to transformer issues |
@@ -50,9 +52,6 @@ March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 *will not be updated after the DCDCv9-3r1.4 release (March 14, 2026).
 
 <br>
-
-# Build Notes v9-3
-For recent updates on building a v9-3 replica, please read [here](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md).
 
 # Note for PCB-Orders
 **Always check the latest release before ordering!**

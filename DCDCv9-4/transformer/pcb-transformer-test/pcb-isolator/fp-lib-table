@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCB Coils")(type "KiCad")(uri "${KIPRJMOD}/pcb_coils/")(options "")(descr "auto-generated coil footprints"))
+)

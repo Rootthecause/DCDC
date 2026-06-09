@@ -1,0 +1,81 @@
+(version 1) 
+# do not remove this version statement, compiler error without!
+# Note on rules: it is difficult to apply all rules for all nets an layers, so only the most important ones are listed.
+
+
+# clearance max. 630 V
+
+(rule "HV+ clearance"	
+	(layer "F.Cu")
+	(layer "B.Cu")
+	(constraint clearance (min 1.2mm))
+	(condition " A.NetName == '+HV'   " ))
+
+
+(rule "HV+ clearance"	
+	(layer "In1.Cu")
+	(layer "In2.Cu")
+	(constraint clearance (min 0.6mm))
+	(condition " A.NetName == '+HV'   " ))
+
+(rule "+HV_in clearance"	
+	(layer "F.Cu")
+	(layer "B.Cu")
+	(constraint clearance (min 1.2mm))
+	(condition " A.NetName == '+HV_in'   " ))
+
+
+(rule "+HV_in clearance"	
+	(layer "In1.Cu")
+	(layer "In2.Cu")
+	(constraint clearance (min 0.6mm))
+	(condition " A.NetName == '+HV_in'   " ))
+
+(rule "-HV_in clearance"	
+	(layer "F.Cu")
+	(layer "B.Cu")
+	(constraint clearance (min 1.2mm))
+	(condition " A.NetName == '-HV_in'   " ))
+
+
+(rule "-HV_in clearance"	
+	(layer "In1.Cu")
+	(layer "In2.Cu")
+	(constraint clearance (min 0.6mm))
+	(condition " A.NetName == '-HV_in'   " ))
+
+
+# clearance max. 150 V
+
+(rule "/Synchronous Rectification/3 clearance"	
+	(layer "F.Cu")
+	(layer "B.Cu")
+	(constraint clearance (min 0.4mm))
+	(condition " A.NetName == '/Synchronous Rectification/3'   " ))
+
+
+(rule "/Synchronous Rectification/3 clearance"	
+	(layer "In1.Cu")
+	(layer "In2.Cu")
+	(constraint clearance (min 0.2mm))
+	(condition " A.NetName == '/Synchronous Rectification/3'   " ))
+
+(rule "/Synchronous Rectification/5 clearance"	
+	(layer "F.Cu")
+	(layer "B.Cu")
+	(constraint clearance (min 0.4mm))
+	(condition " A.NetName == '/Synchronous Rectification/5'   " ))
+
+
+(rule "/Synchronous Rectification/5 clearance"	
+	(layer "In1.Cu")
+	(layer "In2.Cu")
+	(constraint clearance (min 0.2mm))
+	(condition " A.NetName == '/Synchronous Rectification/5'   " ))
+
+# edge cut clearance
+# seem not to work :/
+(rule "edge cut clearance"	
+	(layer "Edge.Cuts")
+	(constraint clearance (min 0.3mm)))
+	

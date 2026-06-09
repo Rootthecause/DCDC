@@ -1,0 +1,1352 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A3")
+	(title_block
+		(title "DC/DC v9-3")
+		(date "2024-09-07")
+		(company "Author: Rootthecause")
+	)
+	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "DC-DC Symbol Lib:GAN3R2-100CBEAZ"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 3.81 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "GAN3R2-100CBEAZ"
+				(at 5.08 1.27 0)
+				(effects
+					(font
+						(size 0.635 0.635)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "Converter_DCDC:GAN3R2100CBEAZ"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/GAN3R2-100CBE.pdf"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "MOSFET GAN3R2-100CBE/SOT8072/WLCSP8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.464"
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "771-GAN3R2-100CBEAZ"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/GAN3R2-100CBEAZ?qs=3Rah4i%252BhyCGCdd4XaWDeeg%3D%3D"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Nexperia"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "GAN3R2-100CBEAZ"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "GAN3R2-100CBEAZ_1_1"
+				(rectangle
+					(start 5.08 0)
+					(end 15.24 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -5.08 180)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -1.27 0)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -5.08 180)
+					(length 2.54) hide
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -1.27 0)
+					(length 2.54) hide
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -5.08 180)
+					(length 2.54) hide
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -1.27 0)
+					(length 2.54) hide
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -5.08 180)
+					(length 2.54) hide
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Samacsys:BSC027N06LS5ATMA1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "BSC027N06LS5ATMA1"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "Samacsys:BSC027N06LS5ATMA1"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-30/596570.pdf"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "MOSFET DIFFERENTIATED MOSFETS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1"
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "726-BSC027N06LS5ATMA"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Infineon"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BSC027N06LS5ATMA1"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "BSC027N06LS5ATMA1_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 20.32 -12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "S_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "S_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "S_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "D_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "D_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "D_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "D_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "D_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 142.24 112.395)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1be633a5-7b91-4fff-abce-c0773c037b47")
+	)
+	(junction
+		(at 126.365 76.835)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c90b01a-0e82-4f54-a943-8ccff6f644d9")
+	)
+	(junction
+		(at 128.905 76.835)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4572c9d5-aff5-420c-a209-13d06a7b07b5")
+	)
+	(junction
+		(at 128.905 102.235)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "464bef4c-0eb6-4daa-82b5-136dee60bc32")
+	)
+	(junction
+		(at 131.445 102.235)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "507d2276-665e-40ba-a7af-ee9de7c2b462")
+	)
+	(junction
+		(at 123.825 125.095)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b0db433-8314-4843-be82-97664fc1589c")
+	)
+	(junction
+		(at 123.825 76.835)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9545cac4-834b-484b-a7cb-15b68d020c97")
+	)
+	(junction
+		(at 116.84 102.235)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6b22f1e-1ec1-4b25-974f-9672f06bb656")
+	)
+	(wire
+		(pts
+			(xy 127 121.285) (xy 116.84 121.285)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05da58da-9889-4608-859f-38f7976489e1")
+	)
+	(wire
+		(pts
+			(xy 123.825 102.235) (xy 123.825 125.095)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18373e9b-0e23-45c0-9614-993e25177f82")
+	)
+	(wire
+		(pts
+			(xy 126.365 102.235) (xy 128.905 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22f4704d-c700-4295-9edb-a621eada0a29")
+	)
+	(wire
+		(pts
+			(xy 123.825 125.095) (xy 127 125.095)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39cc1ec9-f654-48b4-989a-e132127db673")
+	)
+	(wire
+		(pts
+			(xy 131.445 112.395) (xy 142.24 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4302c4d1-695b-4f55-a02f-56ee1a3669cc")
+	)
+	(wire
+		(pts
+			(xy 123.825 76.835) (xy 116.84 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "508bf72d-c211-4bcd-87b9-99c87ada8363")
+	)
+	(wire
+		(pts
+			(xy 128.905 76.835) (xy 126.365 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e374856-d0db-475d-8884-862c164c03ad")
+	)
+	(wire
+		(pts
+			(xy 116.84 102.235) (xy 121.285 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "602321d4-41fa-4cfc-a5ed-8a064a84c3a9")
+	)
+	(wire
+		(pts
+			(xy 116.84 76.835) (xy 116.84 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86cdb0c4-8ee3-4dc5-84b6-b09f07366cf4")
+	)
+	(wire
+		(pts
+			(xy 131.445 102.235) (xy 131.445 112.395)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c593513-0037-4d42-8144-e93e096d60ac")
+	)
+	(wire
+		(pts
+			(xy 116.84 121.285) (xy 116.84 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2281340-f210-4d18-a91f-5b3d3fe3ea31")
+	)
+	(wire
+		(pts
+			(xy 128.905 102.235) (xy 131.445 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9174c53-f743-46af-9580-2f189a40d175")
+	)
+	(wire
+		(pts
+			(xy 142.24 112.395) (xy 142.24 125.095)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc1f8ea6-0498-495d-b134-a9f4a419803a")
+	)
+	(wire
+		(pts
+			(xy 131.445 76.835) (xy 128.905 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef860dca-73c5-4122-8cdd-c2e07e24fde5")
+	)
+	(wire
+		(pts
+			(xy 126.365 76.835) (xy 123.825 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd2713ce-eea7-480f-bd73-e4929c80f799")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 123.825 125.095 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a074ad7-49d6-4815-a7ec-503c175c0156")
+		(property "Reference" "TP2"
+			(at 120.523 120.015 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 120.523 122.555 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DC-DC Footprint Lib:GanDapter single pad"
+			(at 123.825 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.825 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 123.825 125.095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bff59fd0-fbbb-4143-85c9-22563f47d3c0")
+		)
+		(instances
+			(project "GaNdapter"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DC-DC Symbol Lib:GAN3R2-100CBEAZ")
+		(at 124.46 120.015 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "634dd8b5-372d-4e9f-8b73-923af6f57c45")
+		(property "Reference" "Q1"
+			(at 130.81 117.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GAN3R2-100CBEAZ"
+			(at 134.62 119.38 0)
+			(effects
+				(font
+					(size 0.635 0.635)
+				)
+			)
+		)
+		(property "Footprint" "DC-DC Footprint Lib:GAN3R2100CBEAZ"
+			(at 146.05 214.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Nexperia/GAN3R2-100CBEAZ?qs=3Rah4i%252BhyCGCdd4XaWDeeg%3D%3D"
+			(at 146.05 314.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.464"
+			(at 146.05 514.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "771-GAN3R2-100CBEAZ"
+			(at 146.05 614.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/GAN3R2-100CBEAZ?qs=3Rah4i%252BhyCGCdd4XaWDeeg%3D%3D"
+			(at 146.05 714.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Nexperia"
+			(at 146.05 814.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GAN3R2-100CBEAZ"
+			(at 146.05 914.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Qty Stock" "0"
+			(at 124.46 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Qty Order" "4"
+			(at 124.46 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "531cb45f-40e9-4e62-b1e5-dd72bfaf3ded")
+		)
+		(pin "3"
+			(uuid "8b62a0df-720e-44d9-9d58-5f52cdd93222")
+		)
+		(pin "8"
+			(uuid "ac115250-8e46-4f16-aa57-643f4c305ba2")
+		)
+		(pin "5"
+			(uuid "899c4947-94af-43dd-b18c-1f7527708d04")
+		)
+		(pin "6"
+			(uuid "bf38ffd0-789d-4522-bdee-de4398088d7d")
+		)
+		(pin "1"
+			(uuid "d6da2cf7-3910-4bd6-9b51-b16a3b0309c8")
+		)
+		(pin "2"
+			(uuid "30da2787-7151-4eb5-bdb2-ba771307266c")
+		)
+		(pin "4"
+			(uuid "88f85fad-7cd6-46bc-9cfd-3203e48a6b16")
+		)
+		(instances
+			(project "GaNdapter"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samacsys:BSC027N06LS5ATMA1")
+		(at 131.445 102.235 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a190271-f1fe-4918-975a-81115a99e23c")
+		(property "Reference" "Q13"
+			(at 121.285 80.6449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BSC027N06LS5ATMA1"
+			(at 137.16 79.3749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Samacsys:BSC027N06LS5ATMA1"
+			(at 36.525 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-30/596570.pdf"
+			(at -63.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "MOSFET DIFFERENTIATED MOSFETS"
+			(at 131.445 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1"
+			(at -263.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-BSC027N06LS5ATMA"
+			(at -363.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
+			(at -463.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at -563.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BSC027N06LS5ATMA1"
+			(at -663.475 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c5721d28-b23c-40a2-a574-13712ef08ae3")
+		)
+		(pin "1"
+			(uuid "614f8dc0-4a81-4a63-a3c9-72f684aad525")
+		)
+		(pin "4"
+			(uuid "66cebb70-d561-4866-9ab3-7d8bfb64cbca")
+		)
+		(pin "6"
+			(uuid "85496a7f-04f3-4af7-970f-f18073d68c05")
+		)
+		(pin "5"
+			(uuid "3932d278-49fe-4ba2-ae1b-22f701f4183f")
+		)
+		(pin "2"
+			(uuid "1aec1620-4f7e-4faf-9a19-16c88a0b82a9")
+		)
+		(pin "7"
+			(uuid "1ee90401-6096-474e-95fb-08fcdaeb0256")
+		)
+		(pin "8"
+			(uuid "411f0a8c-97f8-4cfe-97ba-c9e85c78fb66")
+		)
+		(pin "9"
+			(uuid "dac416b1-2d50-40c4-862a-f8cb3a451724")
+		)
+		(instances
+			(project "GaNdapter"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "Q13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 126.365 76.835 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0b5995a-bd07-483d-a18b-80732804a1d7")
+		(property "Reference" "TP1"
+			(at 128.27 72.2629 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 128.27 74.8029 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "DC-DC Footprint Lib:GanDapter Long pad"
+			(at 131.445 76.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 131.445 76.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 126.365 76.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6270edae-d0b0-4197-8152-0193579768c2")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 142.24 112.395 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebdc17d9-9a56-4df8-b88e-e68ddde24e56")
+		(property "Reference" "TP3"
+			(at 144.78 107.8229 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 144.78 110.3629 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "DC-DC Footprint Lib:GanDapter short pad"
+			(at 147.32 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 142.24 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d677eab-7202-4e18-a048-3e536d3d1fb0")
+		)
+		(instances
+			(project "GaNdapter"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

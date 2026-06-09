@@ -1241,12 +1241,6 @@
 		(uuid "12892b84-f29b-40ce-8080-8876615b9a4b")
 	)
 	(junction
-		(at 125.73 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12a5db98-b72b-4de8-a272-5e95114fd396")
-	)
-	(junction
 		(at 128.27 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1283,6 +1277,12 @@
 		(uuid "28b20bd8-e170-4094-9e10-c8fbb464b934")
 	)
 	(junction
+		(at 128.27 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e79316d-4c19-40c2-8b2e-01a811f62849")
+	)
+	(junction
 		(at 133.35 85.725)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1311,12 +1311,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f1e1ac4-4351-4a81-9e7f-7daa2ee450cb")
-	)
-	(junction
-		(at 128.27 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5be40f38-e242-4117-86a2-e7461fdaa6c5")
 	)
 	(junction
 		(at 130.81 85.725)
@@ -1361,6 +1355,12 @@
 		(uuid "8ab49943-f5cb-4adc-86c6-a997c705dc6f")
 	)
 	(junction
+		(at 130.81 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b659aad-cdce-4f00-b0f3-ec17392b4110")
+	)
+	(junction
 		(at 97.155 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1391,12 +1391,6 @@
 		(uuid "bc335343-ad94-4f6b-88df-ebd4aacd8cd7")
 	)
 	(junction
-		(at 130.81 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7fa9c0b-e690-4f26-95ac-b89a044ffb1d")
-	)
-	(junction
 		(at 90.805 135.255)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1419,6 +1413,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d9f99a9b-cbdf-4e4a-ae67-f05bebfca34e")
+	)
+	(junction
+		(at 125.73 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df7b1ad2-595d-4602-9c03-7af8d1857971")
 	)
 	(junction
 		(at 110.49 135.255)
@@ -1614,16 +1614,6 @@
 		)
 		(uuid "1647b951-b374-48ca-9622-b4ffb7e08f0a")
 	)
-	(wire
-		(pts
-			(xy 125.73 105.41) (xy 128.27 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f5bea30-d3ca-40d1-97dd-634441998566")
-	)
 	(polyline
 		(pts
 			(xy 46.99 139.065) (xy 36.195 139.065)
@@ -1775,6 +1765,16 @@
 			(type default)
 		)
 		(uuid "3501d929-798d-4f8f-bdda-4a41846a2ac5")
+	)
+	(wire
+		(pts
+			(xy 128.27 105.41) (xy 130.81 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "375c35f4-ce0c-4889-a318-285666e3a571")
 	)
 	(polyline
 		(pts
@@ -2089,16 +2089,6 @@
 			(type default)
 		)
 		(uuid "5f26c28d-ce2f-4ff6-b594-0fdbf1e93159")
-	)
-	(wire
-		(pts
-			(xy 130.81 105.41) (xy 133.35 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63187062-901c-41d3-9e64-95be1af99fca")
 	)
 	(wire
 		(pts
@@ -2436,16 +2426,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 105.41) (xy 130.81 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab16a850-e5b9-4184-af69-81d2c818f966")
-	)
-	(wire
-		(pts
 			(xy 109.855 118.745) (xy 112.395 118.745)
 		)
 		(stroke
@@ -2505,6 +2485,16 @@
 			(type default)
 		)
 		(uuid "b2a8ef5e-ec53-4cca-814f-b0deb2a15cec")
+	)
+	(wire
+		(pts
+			(xy 130.81 105.41) (xy 133.35 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b75e7573-1c9a-4bac-9790-4eb0cdebd331")
 	)
 	(wire
 		(pts
@@ -2676,6 +2666,16 @@
 			(type default)
 		)
 		(uuid "d7e2ce4d-f3dd-4781-9e30-29843f1aa633")
+	)
+	(wire
+		(pts
+			(xy 125.73 105.41) (xy 128.27 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92ed3a3-9894-452d-a4eb-34ddcd905f90")
 	)
 	(wire
 		(pts
@@ -6986,6 +6986,176 @@
 		)
 	)
 	(symbol
+		(lib_id "Samacsys:BSC027N06LS5ATMA1")
+		(at 133.35 130.81 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1472e6d6-c6ff-4b7d-b6c3-0b8f95b84ec2")
+		(property "Reference" "Q8"
+			(at 123.19 109.2199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "ISC015N06NM5LF2ATMA1"
+			(at 139.065 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "DCDC-Footprints:BSC027N06LS5ATMA1"
+			(at 38.43 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Infineon-Technologies/ISC015N06NM5LF2ATMA1?qs=mELouGlnn3f6aaFmTz2%2Fzg%3D%3D"
+			(at -61.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "MOSFET DIFFERENTIATED MOSFETS"
+			(at 133.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1"
+			(at -261.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 726-ISC015N06NM5LF2A"
+			(at -361.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
+			(at -461.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at -561.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ISC015N06NM5LF2ATMA1"
+			(at -661.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "comment" ""
+			(at 133.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source" "Mouser"
+			(at 133.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ignore for iBOM PCBA" "1"
+			(at 133.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "171c9c32-8713-4960-aac2-9a195222d2f4")
+		)
+		(pin "1"
+			(uuid "f585f782-6318-4cde-9a00-d77fba02c2dc")
+		)
+		(pin "4"
+			(uuid "01d7a9be-9404-4fa9-9dee-d932c9edc86e")
+		)
+		(pin "6"
+			(uuid "824c066b-c41e-4b20-a061-0957fa18cd8f")
+		)
+		(pin "5"
+			(uuid "2767df84-76f2-4aa3-82d9-3360f829d763")
+		)
+		(pin "2"
+			(uuid "a74f036d-cc27-4715-b209-e1e5ad29a0ac")
+		)
+		(pin "7"
+			(uuid "faddd3fe-ed20-4dac-85bf-cd67bc82db25")
+		)
+		(pin "8"
+			(uuid "5ef6926b-877c-4271-803d-0585004f4fcf")
+		)
+		(pin "9"
+			(uuid "697b232e-c7c2-41a1-b81f-37f83ee3485f")
+		)
+		(instances
+			(project "DCDCv9-3"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5215d7bc-9c9f-4962-8a83-bb7a10470781"
+					(reference "Q8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 90.805 129.54 180)
 		(unit 1)
@@ -8762,7 +8932,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BSC027N06LS5ATMA1"
+		(property "Value" "ISC015N06NM5LF2ATMA1"
 			(at 139.065 58.4199 0)
 			(effects
 				(font
@@ -8781,7 +8951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Infineon-Technologies/ISC015N06NM5LF2ATMA1?qs=mELouGlnn3f6aaFmTz2%2Fzg%3D%3D"
 			(at -61.57 59.69 0)
 			(effects
 				(font
@@ -8810,7 +8980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "726-BSC027N06LS5ATMA"
+		(property "Mouser Part Number" " 726-ISC015N06NM5LF2A"
 			(at -361.57 59.69 0)
 			(effects
 				(font
@@ -8840,7 +9010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "BSC027N06LS5ATMA1"
+		(property "Manufacturer_Part_Number" "ISC015N06NM5LF2ATMA1"
 			(at -661.57 59.69 0)
 			(effects
 				(font
@@ -9329,176 +9499,6 @@
 			(project "DCDCv9-3"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5215d7bc-9c9f-4962-8a83-bb7a10470781"
 					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Samacsys:BSC027N06LS5ATMA1")
-		(at 133.35 130.81 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ac101335-d30b-4a2f-8576-ffcea75027a9")
-		(property "Reference" "Q8"
-			(at 123.19 109.2199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "BSC027N06LS5ATMA1"
-			(at 138.43 107.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:BSC027N06LS5ATMA1"
-			(at 38.43 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
-			(at -61.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET DIFFERENTIATED MOSFETS"
-			(at 133.35 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1"
-			(at -261.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "726-BSC027N06LS5ATMA"
-			(at -361.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC027N06LS5ATMA1?qs=HXFqYaX1Q2z6vEIhZX7Vzw%3D%3D"
-			(at -461.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Infineon"
-			(at -561.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "BSC027N06LS5ATMA1"
-			(at -661.57 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 133.35 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 133.35 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 133.35 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9fbb34f4-44f2-43e9-8e11-793eb7a938e0")
-		)
-		(pin "1"
-			(uuid "47247dc0-5ff0-403a-9d64-e6b184333cb4")
-		)
-		(pin "4"
-			(uuid "63fff954-c1aa-405e-9feb-762d0630eec9")
-		)
-		(pin "6"
-			(uuid "2aa28751-b758-4725-b243-bb426acfe2b3")
-		)
-		(pin "5"
-			(uuid "7ec1fc5c-b1b8-40b9-9606-07d32deec99f")
-		)
-		(pin "2"
-			(uuid "7040f112-b407-438f-9497-ecfe953df16e")
-		)
-		(pin "7"
-			(uuid "14eebd02-040e-47f1-8a3c-f049bf39db25")
-		)
-		(pin "8"
-			(uuid "c5c7e382-6f1d-4169-86de-66f3c727fc1e")
-		)
-		(pin "9"
-			(uuid "52324ce4-1951-4b6f-b067-7b8b36ff4b3b")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5215d7bc-9c9f-4962-8a83-bb7a10470781"
-					(reference "Q8")
 					(unit 1)
 				)
 			)

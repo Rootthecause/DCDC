@@ -6723,6 +6723,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 40.64 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4244cd26-f1a7-4c92-90db-d5a713bd7abd")
 		)
@@ -6774,7 +6783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 107.315 68.58 0)
 			(effects
 				(font
@@ -6829,6 +6838,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 107.315 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C313986"
 			(at 107.315 68.58 0)
 			(effects
 				(font
@@ -6944,6 +6962,15 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
+			(at 78.74 116.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 78.74 116.205 0)
 			(effects
 				(font
@@ -7119,6 +7146,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C24491072"
+			(at 133.35 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "171c9c32-8713-4960-aac2-9a195222d2f4")
 		)
@@ -7254,6 +7290,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 90.805 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6fa969d-208a-461b-99a9-b22dcc46a5d6")
 		)
@@ -7358,6 +7403,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 59.055 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 59.055 104.14 0)
 			(effects
 				(font
@@ -7472,6 +7526,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 40.64 61.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 40.64 61.595 0)
 			(effects
 				(font
@@ -7604,6 +7667,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 112.395 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f43ca56b-ff43-4f23-b256-eedb05623c4c")
 		)
@@ -7717,6 +7789,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 97.79 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 97.79 53.975 0)
 			(effects
 				(font
@@ -7903,7 +7984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342208005?qs=MLItCLRbWswV%252Bu0dQbBqKw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Vishay/VJ1206A471JXGTW1HV?qs=olJun0bQHM88fzsifrrICQ%3D%3D"
 			(at 40.64 72.39 0)
 			(effects
 				(font
@@ -7921,7 +8002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "885342208005"
+		(property "Manufacturer_Part_Number" "VJ1206A471JXGTW1HV"
 			(at 40.64 72.39 0)
 			(effects
 				(font
@@ -7958,6 +8039,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 40.64 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22440592"
 			(at 40.64 72.39 0)
 			(effects
 				(font
@@ -8017,7 +8107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342208005?qs=MLItCLRbWswV%252Bu0dQbBqKw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Vishay/VJ1206A471JXGTW1HV?qs=olJun0bQHM88fzsifrrICQ%3D%3D"
 			(at 40.64 122.555 0)
 			(effects
 				(font
@@ -8035,7 +8125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "885342208005"
+		(property "Manufacturer_Part_Number" "VJ1206A471JXGTW1HV"
 			(at 40.64 122.555 0)
 			(effects
 				(font
@@ -8072,6 +8162,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 40.64 122.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22440592"
 			(at 40.64 122.555 0)
 			(effects
 				(font
@@ -8131,7 +8230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Walsin/SH31B102K631CT?qs=ZrPdAQfJ6DPRDGJZHcu%252BNw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Vishay/VJ1206A102KXGTW1HV?qs=olJun0bQHM%2FvodW6MdJ6Qw%3D%3D"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -8149,7 +8248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SH31B102K631CT"
+		(property "Manufacturer_Part_Number" "VJ1206A102KXGTW1HV"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -8186,6 +8285,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 97.79 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C342954"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -8306,6 +8414,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C15849"
+			(at 59.055 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8e5f166-5226-438c-8e69-28396ced7eba")
 		)
@@ -8413,6 +8530,15 @@
 			)
 		)
 		(property "ignore for PCBA" "1"
+			(at 78.74 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 78.74 66.04 0)
 			(effects
 				(font
@@ -8563,6 +8689,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 112.395 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e1cb576-ebed-49b8-adad-29f2fcf986bc")
 		)
@@ -8664,6 +8799,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 118.745 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 118.745 135.255 0)
 			(effects
 				(font
@@ -8784,6 +8928,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 97.79 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e77cb94-bc1b-46db-b82c-8e1df8225c7f")
 		)
@@ -8835,7 +8988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-P08J4R7V?qs=sGAEpiMZZMtlubZbdhIBIK7FbVYKWV6WtRy9y9o9OQM%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/YAGEO/RC1206FR-7W10RL?qs=tggtontpCXM7RQCPv1SaRw%3D%3D"
 			(at 107.315 118.745 0)
 			(effects
 				(font
@@ -8890,6 +9043,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 107.315 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C313986"
 			(at 107.315 118.745 0)
 			(effects
 				(font
@@ -9039,6 +9201,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 133.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C24491072"
 			(at 133.35 81.28 0)
 			(effects
 				(font
@@ -9257,6 +9428,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 110.49 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53cf9d62-5b2b-4032-8cdd-1d705fdd6f0e")
 		)
@@ -9360,6 +9540,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 53.975 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 53.975 129.54 0)
 			(effects
 				(font
@@ -9492,6 +9681,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 110.49 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5e3898d-239b-4341-8f47-83a420a3832d")
 		)
@@ -9595,6 +9793,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 59.055 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 59.055 79.375 0)
 			(effects
 				(font
@@ -9715,6 +9922,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 97.155 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2cfdcdfe-ea86-43aa-acac-70b645405244")
 		)
@@ -9827,6 +10043,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 118.745 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "111ec817-3307-4687-bf30-1e9bc0d1eecd")
 		)
@@ -9878,7 +10103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Walsin/SH31B102K631CT?qs=ZrPdAQfJ6DPRDGJZHcu%252BNw%3D%3D"
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Vishay/VJ1206A102KXGTW1HV?qs=olJun0bQHM%2FvodW6MdJ6Qw%3D%3D"
 			(at 97.155 128.27 0)
 			(effects
 				(font
@@ -9896,7 +10121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SH31B102K631CT"
+		(property "Manufacturer_Part_Number" "VJ1206A102KXGTW1HV"
 			(at 97.155 128.27 0)
 			(effects
 				(font
@@ -9933,6 +10158,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 97.155 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C342954"
 			(at 97.155 128.27 0)
 			(effects
 				(font
@@ -10065,6 +10299,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 97.155 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e845285-4e11-45f0-a0d2-e067bdad3989")
 		)
@@ -10168,6 +10411,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 53.975 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 53.975 79.375 0)
 			(effects
 				(font
@@ -10282,6 +10534,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 59.055 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 59.055 129.54 0)
 			(effects
 				(font
@@ -10461,6 +10722,15 @@
 			)
 		)
 		(property "ignore for iBOM PCBA" "1"
+			(at 90.805 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 90.805 81.915 0)
 			(effects
 				(font

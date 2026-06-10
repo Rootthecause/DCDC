@@ -1,5 +1,5 @@
 # INFO: This is the DCDCv9-4 development branch. 
-# Changes published here might be not tested. Please use the latest v9-3 release if you're not going to properly verifying the converter yourself.
+# Changes published here might be not tested. Please use the latest v9-3 release if you're not going to properly verify the converter yourself.
 
 [![kicad](https://img.shields.io/badge/KiCad-8.0.5-1F4FFF)](https://www.kicad.org/)
 [![LTspice](https://img.shields.io/badge/LTspice-17.0-910029)](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)

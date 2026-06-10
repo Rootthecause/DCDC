@@ -5,8 +5,8 @@
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "A3")
 	(title_block
-		(title "DC/DC v9-3r1.4")
-		(date "2026-05-11")
+		(title "DC/DC v9-4r0.1")
+		(date "2026-06-09")
 		(company "Author: Rootthecause")
 	)
 	(lib_symbols
@@ -2337,6 +2337,154 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:FerriteBead_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FerriteBead_Small"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_Small_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -0.7874)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.889) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.27)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10599,12 +10747,6 @@
 		(uuid "09bf1f31-939c-4e79-adc7-5fd36c274350")
 	)
 	(junction
-		(at 320.04 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c21d549-49d3-440b-bc51-d6377f2b9310")
-	)
-	(junction
 		(at 366.395 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10881,18 +11023,6 @@
 		(uuid "423dcba5-c126-424e-86e6-b85e3aff985e")
 	)
 	(junction
-		(at 327.025 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42f71d35-d8df-4985-a5f8-6a446393cc03")
-	)
-	(junction
-		(at 327.025 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43afdcec-6904-4579-83b3-dba83b295e3f")
-	)
-	(junction
 		(at 358.14 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11013,22 +11143,10 @@
 		(uuid "5c30f977-e942-4060-8e1e-ad40879b8939")
 	)
 	(junction
-		(at 311.785 142.875)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5e4faede-c2b0-43e7-81a0-6638f309a851")
-	)
-	(junction
 		(at 121.92 76.835)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f113ce7-dd33-4c7d-ba27-d9cd34f06aa0")
-	)
-	(junction
-		(at 311.785 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6264c0d2-1ece-48df-b9f7-4b75f7583cdf")
 	)
 	(junction
 		(at 107.315 260.35)
@@ -11089,12 +11207,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6dea8b96-8f84-4f8a-9247-b34827560b8d")
-	)
-	(junction
-		(at 311.785 133.985)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e217b19-fd5b-4f8d-8e40-a700f24861d3")
 	)
 	(junction
 		(at 308.61 95.885)
@@ -11643,12 +11755,6 @@
 		(uuid "dee93791-c3d6-4035-947f-f67c4e3d2954")
 	)
 	(junction
-		(at 320.04 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e17cb8ac-1a34-48e1-b574-cb2e556cb59c")
-	)
-	(junction
 		(at 105.41 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11755,12 +11861,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2965789-8d17-4364-b66c-e69efec99d0a")
-	)
-	(junction
-		(at 311.785 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3e2d399-c91c-41d4-b55e-53c30549a5ae")
 	)
 	(junction
 		(at 48.26 275.59)
@@ -12371,16 +12471,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.025 116.84) (xy 337.185 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11142358-bf04-48b5-b414-d00853085e29")
-	)
-	(wire
-		(pts
 			(xy 18.415 226.06) (xy 26.67 226.06)
 		)
 		(stroke
@@ -12421,7 +12511,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 186.055) (xy 46.99 197.485)
+			(xy 46.99 186.055) (xy 46.99 188.595)
 		)
 		(stroke
 			(width 0)
@@ -12611,16 +12701,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 163.83) (xy 327.025 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a12b36e-9bb3-4ba3-bd99-9a5c97805adc")
-	)
-	(wire
-		(pts
 			(xy 177.8 226.06) (xy 186.69 226.06)
 		)
 		(stroke
@@ -12722,16 +12802,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.025 133.35) (xy 327.025 140.335)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e8aa3da-5cb6-4363-abf8-8e4da9902e05")
-	)
-	(wire
-		(pts
 			(xy 287.655 186.055) (xy 289.56 186.055)
 		)
 		(stroke
@@ -12769,16 +12839,6 @@
 			(type default)
 		)
 		(uuid "20785009-845c-4210-90dc-8bc0e4ba11b1")
-	)
-	(wire
-		(pts
-			(xy 311.785 142.875) (xy 311.785 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2104c10c-5854-431f-9754-efcd387c8b8c")
 	)
 	(wire
 		(pts
@@ -13283,16 +13343,6 @@
 	)
 	(wire
 		(pts
-			(xy 307.975 133.985) (xy 311.785 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "350192ed-ea3b-4b0a-aab2-685669faf2aa")
-	)
-	(wire
-		(pts
 			(xy 86.36 122.555) (xy 86.36 132.08)
 		)
 		(stroke
@@ -13710,16 +13760,6 @@
 			(type default)
 		)
 		(uuid "44c54863-cfc8-44c5-be63-6ec3c9231f32")
-	)
-	(wire
-		(pts
-			(xy 297.815 116.84) (xy 311.785 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4521b5b2-348a-441f-b758-3e504c87eb0f")
 	)
 	(wire
 		(pts
@@ -14354,7 +14394,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 116.84) (xy 327.025 116.84)
+			(xy 297.815 116.84) (xy 337.185 116.84)
 		)
 		(stroke
 			(width 0)
@@ -14461,16 +14501,6 @@
 			(type default)
 		)
 		(uuid "59dd64fc-01d9-4ab2-b04d-9327038ed6e9")
-	)
-	(wire
-		(pts
-			(xy 307.975 135.89) (xy 307.975 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ade4416-027f-4f17-8881-4b225407726a")
 	)
 	(wire
 		(pts
@@ -14614,16 +14644,6 @@
 	)
 	(wire
 		(pts
-			(xy 311.785 142.875) (xy 315.595 142.875)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "600a1d41-783b-4844-b010-c41e7f831609")
-	)
-	(wire
-		(pts
 			(xy 337.185 154.94) (xy 337.185 157.48)
 		)
 		(stroke
@@ -14693,16 +14713,6 @@
 			(color 194 194 194 1)
 		)
 		(uuid "637d6f06-48d7-4ac9-897f-ce207ae57ad3")
-	)
-	(wire
-		(pts
-			(xy 297.815 163.83) (xy 311.785 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63e113ec-e0df-47af-9fbc-7bf4499d51d9")
 	)
 	(wire
 		(pts
@@ -14833,16 +14843,6 @@
 			(type default)
 		)
 		(uuid "6a552813-a21e-47b1-ac14-49db51daccc7")
-	)
-	(wire
-		(pts
-			(xy 327.025 163.83) (xy 337.185 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a8cd87a-bc6a-4fc1-86cf-dfecd8b6959f")
 	)
 	(wire
 		(pts
@@ -15226,16 +15226,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 145.415) (xy 320.04 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77a3a536-9c48-4c9a-b351-66f3e26146cb")
-	)
-	(wire
-		(pts
 			(xy 219.71 163.83) (xy 254 163.83)
 		)
 		(stroke
@@ -15363,16 +15353,6 @@
 			(type default)
 		)
 		(uuid "7bfdce81-9a99-47d3-ba5e-b177bc2303ac")
-	)
-	(wire
-		(pts
-			(xy 320.04 133.35) (xy 320.04 140.335)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c118cff-93ba-4560-b4cd-5041d8dcdeb1")
 	)
 	(wire
 		(pts
@@ -15743,16 +15723,6 @@
 			(type default)
 		)
 		(uuid "88101aa6-f60b-4bba-828f-0349e6f2e068")
-	)
-	(wire
-		(pts
-			(xy 311.785 116.84) (xy 311.785 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "885403ce-23fe-46c6-a6ee-67dae1835646")
 	)
 	(wire
 		(pts
@@ -16127,16 +16097,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 116.84) (xy 320.04 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97b2a723-f42b-4948-b9de-85c82d47edb6")
-	)
-	(wire
-		(pts
 			(xy 148.59 147.32) (xy 148.59 152.4)
 		)
 		(stroke
@@ -16227,7 +16187,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.785 163.83) (xy 320.04 163.83)
+			(xy 297.815 163.83) (xy 337.185 163.83)
 		)
 		(stroke
 			(width 0)
@@ -16284,16 +16244,6 @@
 			(type default)
 		)
 		(uuid "9e3e860d-e316-48fb-af5f-6ec3e6367b94")
-	)
-	(wire
-		(pts
-			(xy 311.785 135.89) (xy 311.785 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e5b8c45-935a-4c4c-8f75-ae4c6c709e5d")
 	)
 	(wire
 		(pts
@@ -16719,16 +16669,6 @@
 	)
 	(wire
 		(pts
-			(xy 311.785 133.985) (xy 315.595 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0deabcc-7478-4627-97f5-5a0c06f026a9")
-	)
-	(wire
-		(pts
 			(xy 168.275 204.47) (xy 168.275 207.01)
 		)
 		(stroke
@@ -16736,26 +16676,6 @@
 			(type default)
 		)
 		(uuid "b1ce345a-d77c-4429-aeaa-ecebb55779ce")
-	)
-	(wire
-		(pts
-			(xy 315.595 140.97) (xy 315.595 142.875)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b247c3cd-4d9e-4033-8ece-b2ffe37e8d45")
-	)
-	(wire
-		(pts
-			(xy 311.785 140.97) (xy 311.785 142.875)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2b4d13c-74de-40b0-8d69-6a25e41b6c86")
 	)
 	(wire
 		(pts
@@ -16816,16 +16736,6 @@
 			(type default)
 		)
 		(uuid "b46074d0-3770-4451-b32a-565511df8602")
-	)
-	(wire
-		(pts
-			(xy 315.595 135.89) (xy 315.595 133.985)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b483d571-232f-4df8-8c79-c8e5fa30fab2")
 	)
 	(wire
 		(pts
@@ -17479,16 +17389,6 @@
 	)
 	(wire
 		(pts
-			(xy 307.975 140.97) (xy 307.975 142.875)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc8e38a8-4351-4a9f-8d0a-6a66b83ed0b2")
-	)
-	(wire
-		(pts
 			(xy 121.92 135.89) (xy 121.92 137.16)
 		)
 		(stroke
@@ -17626,6 +17526,16 @@
 			(type default)
 		)
 		(uuid "d3e0585c-47dc-454f-a7a4-aea75574181f")
+	)
+	(wire
+		(pts
+			(xy 46.99 193.675) (xy 46.99 197.485)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d41f8812-d66a-4ef1-a64c-ab03afed5b1c")
 	)
 	(wire
 		(pts
@@ -17966,16 +17876,6 @@
 			(type default)
 		)
 		(uuid "e5974c2a-8f8c-4681-be2c-93554ff86e87")
-	)
-	(wire
-		(pts
-			(xy 327.025 145.415) (xy 327.025 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5b7c62a-44f6-4c70-9880-9e69a9460b15")
 	)
 	(wire
 		(pts
@@ -18593,26 +18493,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.025 116.84) (xy 327.025 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc0358a1-ed6c-423a-830b-c39bcaaed4f5")
-	)
-	(wire
-		(pts
-			(xy 307.975 142.875) (xy 311.785 142.875)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc0c681d-f85a-4193-928d-77f4ea3b3358")
-	)
-	(wire
-		(pts
 			(xy 247.015 61.595) (xy 257.175 61.595)
 		)
 		(stroke
@@ -18710,16 +18590,6 @@
 			(type default)
 		)
 		(uuid "fd92c5a5-d0d3-4b2e-baf9-95f62bd3c67f")
-	)
-	(wire
-		(pts
-			(xy 311.785 116.84) (xy 320.04 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdbda123-417e-4883-bf09-e5d1592b10c5")
 	)
 	(wire
 		(pts
@@ -18866,6 +18736,17 @@
 			(justify bottom)
 		)
 		(uuid "1baf2bd0-585c-4658-87a2-58786d7a7ac0")
+	)
+	(text "Note: Using the LMR33640ADDA might be not possible without proper CC implementaion "
+		(exclude_from_sim no)
+		(at 20.32 235.585 0)
+		(effects
+			(font
+				(size 0.8 0.8)
+			)
+			(justify left)
+		)
+		(uuid "21f55bfe-2861-4d98-8847-c2c4a46685cd")
 	)
 	(text "If the MP4541 is not available, \nuse the MP4581 (1:1 compatible, 100V variant)"
 		(exclude_from_sim no)
@@ -19860,17 +19741,6 @@
 			(justify left)
 		)
 		(uuid "f1141592-432a-4a85-8624-578be2d33644")
-	)
-	(text "Ringing supression"
-		(exclude_from_sim no)
-		(at 311.15 115.57 0)
-		(effects
-			(font
-				(size 0.6 0.6)
-			)
-			(justify left bottom)
-		)
-		(uuid "f2833403-f49b-4190-b8ca-a358c31dc423")
 	)
 	(text "Cs"
 		(exclude_from_sim no)
@@ -21221,118 +21091,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 327.025 142.875 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "143eb878-3827-4672-a674-c93fca5c07f5")
-		(property "Reference" "C57"
-			(at 324.8365 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1nF"
-			(at 326.9766 145.542 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:C_0603_1608Metric"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342206003?qs=sGAEpiMZZMsh%252B1woXyUXj88C7E9rEmUTOqWCYOjsSpE%3D"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885342206003"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 327.025 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b92dc600-f0b7-4da9-948b-04e81981b66f")
-		)
-		(pin "2"
-			(uuid "375ce119-8164-4a5e-b0ac-a980e20b8e3e")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 186.69 214.63 0)
 		(mirror y)
 		(unit 1)
@@ -21556,118 +21314,6 @@
 			(project "DCDCv9-3"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R75")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 320.04 142.875 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16ad5569-af97-4b24-b8c6-e235df810ae1")
-		(property "Reference" "C56"
-			(at 317.8515 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1nF"
-			(at 319.9916 145.542 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:C_0603_1608Metric"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342206003?qs=sGAEpiMZZMsh%252B1woXyUXj88C7E9rEmUTOqWCYOjsSpE%3D"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885342206003"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 320.04 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf603107-da1a-4f40-aed8-bf50d81215b0")
-		)
-		(pin "2"
-			(uuid "32a85fa9-9a0a-4b2e-a94f-c24d845d3364")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -27485,120 +27131,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 320.04 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45cb8030-96c8-440d-b5e8-c769f5ae0b93")
-		(property "Reference" "R73"
-			(at 321.945 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10"
-			(at 321.945 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:R_0603_1608Metric"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-PA3J100V?qs=sGAEpiMZZMtlubZbdhIBIL24R7XL4VFW3x7wh7xo8eA%3D"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "6"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ERJ-PA3J100V"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 320.04 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03c34bf5-a034-4d6d-a3fc-67112664b25b")
-		)
-		(pin "2"
-			(uuid "53f562e1-ced4-44e8-b537-eca7fc800472")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R73")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "Thermistor_PTC_3")
 		(lib_id "Device:Thermistor_PTC")
 		(at 364.363 195.961 0)
@@ -28360,118 +27892,6 @@
 			(project "DCDCv9-3"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 307.975 138.43 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4f39547c-4dc1-41c7-ac42-a23b82af917f")
-		(property "Reference" "C50"
-			(at 305.7865 136.017 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1nF"
-			(at 307.9266 141.097 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:C_0603_1608Metric"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342206003?qs=sGAEpiMZZMsh%252B1woXyUXj88C7E9rEmUTOqWCYOjsSpE%3D"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885342206003"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 307.975 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b76b4d7-730a-4a4a-ba4d-dc1c7b4aa982")
-		)
-		(pin "2"
-			(uuid "77ed1c23-3f78-41c1-a3d7-0b9c27229607")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -31976,120 +31396,6 @@
 			(project "DCDCv9-3"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "TH1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 327.025 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7b1260e1-52b8-46ec-82d9-d0885a6a9339")
-		(property "Reference" "R74"
-			(at 328.93 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10"
-			(at 328.93 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:R_0603_1608Metric"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Panasonic/ERJ-PA3J100V?qs=sGAEpiMZZMtlubZbdhIBIL24R7XL4VFW3x7wh7xo8eA%3D"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "6"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "ERJ-PA3J100V"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 327.025 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb529f6f-3b4e-4e6d-a753-e51fc9fd5859")
-		)
-		(pin "2"
-			(uuid "3ce7b464-9ecd-450d-b5a7-80b4ccc0ffb2")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R74")
 					(unit 1)
 				)
 			)
@@ -40456,7 +39762,7 @@
 		(at 256.54 198.755 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c4f0935d-2e39-4377-acd5-ce40dcae6269")
@@ -41023,118 +40329,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 315.595 138.43 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c86e363f-ce09-4836-b39d-59415a2e7abd")
-		(property "Reference" "C52"
-			(at 313.4065 136.017 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1nF"
-			(at 315.5466 141.097 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:C_0603_1608Metric"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342206003?qs=sGAEpiMZZMsh%252B1woXyUXj88C7E9rEmUTOqWCYOjsSpE%3D"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885342206003"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 315.595 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce77c674-0706-44ea-9f35-f94e34292d0e")
-		)
-		(pin "2"
-			(uuid "0b930408-78ea-4333-932a-3093d6099175")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_FET:DMN3300U")
 		(at 276.86 89.535 0)
 		(unit 1)
@@ -41247,118 +40441,6 @@
 			(project "DC-DC v9"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 311.785 138.43 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cc2d34b8-db70-4240-b84d-c1153c0aefdb")
-		(property "Reference" "C51"
-			(at 309.5965 136.017 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1nF"
-			(at 311.7366 141.097 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DCDC-Footprints:C_0603_1608Metric"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/885342206003?qs=sGAEpiMZZMsh%252B1woXyUXj88C7E9rEmUTOqWCYOjsSpE%3D"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "885342206003"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Qty Order" "1"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "comment" ""
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "Mouser"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ignore for iBOM PCBA" "1"
-			(at 311.785 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c9caaf2-8da9-403e-8910-8b285e8ddd39")
-		)
-		(pin "2"
-			(uuid "75cf26bb-e6e4-4e5d-a74c-c153874b0dab")
-		)
-		(instances
-			(project "DCDCv9-3"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -45361,6 +44443,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 46.99 191.135 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe2bf334-7fb3-4b46-99e2-cd5e1f2dacd8")
+		(property "Reference" "FB1"
+			(at 49.53 189.8268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470 Ohm"
+			(at 49.53 192.3668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+			(at 45.212 191.135 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.de/ProductDetail/Wurth-Elektronik/742792645?qs=Wn16VcyqZWoz3VPTl72p2A%3D%3D"
+			(at 46.99 191.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 46.99 191.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b3d03161-6c0f-4804-87c7-3a8a6f267424")
+		)
+		(pin "1"
+			(uuid "4a89527c-13d2-4340-8338-28779a2ada82")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 144.78 82.55 180)
 		(unit 1)
@@ -45772,7 +44924,7 @@
 			(uuid "1430d4ac-2b78-4988-b3a4-9f607bc42675")
 		)
 		(instances
-			(project "DCDCv9-3"
+			(project "DCDCv9-4"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "2")
 				)

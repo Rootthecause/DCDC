@@ -134,14 +134,15 @@ a converter with PCB transformer in the MHz range might also be possible.
 
 
 ## Replicas
-*Last updated: May 31, 2026*
+*Last updated: June 24, 2026*
 
 - At least 4 Formula Student teams are replicating the DCDCv9-3r in 2026  
 - At least 4 teams have successfully built and tested the DCDCv9-3r:  
-  - TU Graz Racing, Austria, 2025 / 2026
+  - TU Graz Racing, Austria, 2025 + 2026
   - Anonymous team, Germany, 2025
   - Anonymous team, Czech, 2025
   - Anonymous team, (modified version), England, 2026
+  - Arrabona Racing Team, Hungary, 2026 
 <br>
 
 **Want to add your team to this list (publicly or anonymously)?**  

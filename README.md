@@ -151,11 +151,11 @@ Thanks! <br>
 
 ## Star History
 
-<a href="https://www.star-history.com/#Rootthecause/dcdc&type=date&legend=bottom-right">
+<a href="https://www.star-history.com/?type=date&legend=bottom-right&repos=Rootthecause%2Fdcdc">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Rootthecause/dcdc&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Rootthecause/dcdc&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Rootthecause/dcdc&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Rootthecause/dcdc&type=date&theme=dark&legend=bottom-right&sealed_token=mzjVnRIkla1vRBk2-KK44TFHBLLXQNpQxWfrkvZrKnmeYRq4vDsalk-4ebVN9e_loyW0JTCKtIhzX2gAzmecnIZoZ-mtmyZheD50UHvruGQUZOgHEQh1tdMgoWUtcaJrPUCjxlboJflvB1i19gqI4QuvRyrbwL13nwhyrt8bHj4ZewdpJkWvTW374E3O" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Rootthecause/dcdc&type=date&legend=bottom-right&sealed_token=mzjVnRIkla1vRBk2-KK44TFHBLLXQNpQxWfrkvZrKnmeYRq4vDsalk-4ebVN9e_loyW0JTCKtIhzX2gAzmecnIZoZ-mtmyZheD50UHvruGQUZOgHEQh1tdMgoWUtcaJrPUCjxlboJflvB1i19gqI4QuvRyrbwL13nwhyrt8bHj4ZewdpJkWvTW374E3O" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Rootthecause/dcdc&type=date&legend=bottom-right&sealed_token=mzjVnRIkla1vRBk2-KK44TFHBLLXQNpQxWfrkvZrKnmeYRq4vDsalk-4ebVN9e_loyW0JTCKtIhzX2gAzmecnIZoZ-mtmyZheD50UHvruGQUZOgHEQh1tdMgoWUtcaJrPUCjxlboJflvB1i19gqI4QuvRyrbwL13nwhyrt8bHj4ZewdpJkWvTW374E3O" />
  </picture>
 </a>
 <br>

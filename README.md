@@ -27,8 +27,9 @@ March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 
 |Date YYMMDD| Description |
 |:---------------------:|:------|
+|260730| Currently used resonant C0G capacitors might cause converter failures. See [v9-3 Build Notes](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md) for more details.| 
 |260609| Added new [v9-4_dev](https://github.com/Rootthecause/DCDC/tree/v9-4_dev) branch. This version is currently untested and not recommended for use. Some components were improved, like D14, U1, U11, Q8, Q9, Q10, Q11. SR FETs have more vias and 20% larger cooling surface. Increased TS side control voltage from 12V to 15V for lower conduction losses.|
-|260326 | Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-16319278) currently being slowed down due to transformer issues |
+|260326 | Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-16319278) currently being slowed down due to transformer issues.|
 |260314| Release of the v9-3r1.4 update. Fixes many smaller issues and probably issue #10. See [releases](https://github.com/Rootthecause/DCDC/releases) for more details.|
 |260129| First public v10 schematic, see [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15634156), also contains a timeline and small v9-3 update|
 |260104| New year's update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-15400450) |

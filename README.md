@@ -27,6 +27,7 @@ March 10, 2026: Thanks for giving this repro more than 100 stars! ⭐️
 
 |Date YYMMDD| Description |
 |:---------------------:|:------|
+|260812|**Urgent notice:** The distance between F1 and RV1 is too small, which can lead to a arc on the HV side while the DCDC is enabled. As long as both components do not touch each other conformal coating would prevent the insulation fault, however the actual spacing is influenced by mechanical tolerances. As a hotfix, isolating glue can be used to fill the gap and/or [low profile fuse clips](https://www.mouser.de/de/ProductDetail/576-01220090Z) (currently untested, should be less wide). The current spacings on the top copper layer between the components are sufficinet with conformal coating. More details on this issue will be added to the Build Notes soon.|
 |260730| Currently used resonant C0G capacitors might cause converter failures. See [v9-3 Build Notes](https://github.com/Rootthecause/DCDC/blob/main/v9-3_build_notes.md) for more details.| 
 |260609| Added new [v9-4_dev](https://github.com/Rootthecause/DCDC/tree/v9-4_dev) branch. This version is currently untested and not recommended for use. Some components were improved, like D14, U1, U11, Q8, Q9, Q10, Q11. SR FETs have more vias and 20% larger cooling surface. Increased TS side control voltage from 12V to 15V for lower conduction losses.|
 |260326 | Update on [v10 development](https://github.com/Rootthecause/DCDC/discussions/9#discussioncomment-16319278) currently being slowed down due to transformer issues.|
@@ -97,7 +98,7 @@ Features
 - onboard HV- and LV fuses
 - minimum isolation distance 4.5 mm (According to rule EV 4.3.6, Table 5, Conformal Coating: 600V DC -> min. 4 mm spacing required)
 - optional back side connectors for on-PCB mount 
-- NOT FULLY FSG-Rules 2025 conform [September 15, 2025 there was a complaint, see #10 for further information. This may or may not resolved in the future.]
+- "FSG-Rules 2026 v1.1 conform", the complaint #10 was resolved in the v9-3r1.4 release. Teams were able to pass at FSCH, FSA, FSCZ in 2026 [more to come]. NOTE: As converters are manufactured by the teams with individual components (such as the HF-litz wire), they must be able to show e.g. isolation ratings. Without this, passing the technical inspection may be at the discretion of the scrutineer.
 </strong>
 <br>
 <br>
